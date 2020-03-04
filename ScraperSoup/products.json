@@ -1,0 +1,1282 @@
+{
+    "Products": [
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A064035433C27BLCIBU0A&url=%2FCanaKit-Raspberry-4GB-Starter-Kit%2Fdp%2FB07V5JTMV9%2Fref%3Dsr_1_1_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364148%26sr%3D8-1-spons%26psc%3D1&qualifier=1583364148&id=7621996609429531&widgetName=sp_atf",
+            "name": "CanaKit Raspberry Pi 4 4GB Starter Kit - 4GB RAM",
+            "prev_price": 99.99,
+            "price": 99.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_2?ie=UTF8&adId=A0278464L1QMGNX711M6&url=%2FVilros-Raspberry-Fan-Cooled-Heatsinks-Quickstart%2Fdp%2FB07TKFFCF1%2Fref%3Dsr_1_2_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364148%26sr%3D8-2-spons%26psc%3D1&qualifier=1583364148&id=7621996609429531&widgetName=sp_atf",
+            "name": "Vilros - Raspberry Pi 4 Basic Kit [2GB] - Includes Fan-Cooled Case, Power Supply with Switch, Heatsinks, HDMI Adapter, Quickstart Guide",
+            "prev_price": 62.99,
+            "price": 62.99
+        },
+        {
+            "link": "https://www.amazon.com/Vilros-Raspberry-Starter-Power-Premium/dp/B0748MPQT4/ref=sxin_2_ac_d_pm?ac_md=3-0-VW5kZXIgJDUw-ac_d_pm&cv_ct_cx=Raspberry+Pi&keywords=Raspberry+Pi&pd_rd_i=B0748MPQT4&pd_rd_r=30b17f90-a6a4-4a57-9cb2-a75f23ab7715&pd_rd_w=us3XG&pd_rd_wg=yPxDC&pf_rd_p=0e223c60-bcf8-4663-98f3-da892fbd4372&pf_rd_r=00JXJ6364R7A43MMKQ93&psc=1&qid=1583364148",
+            "name": "Vilros Raspberry Pi Zero W Basic Starter Kit- Black Case Edition-Includes Pi Zero W -Power Supply & Premium Black Case",
+            "prev_price": 99.99,
+            "price": 99.99
+        },
+        {
+            "link": "https://www.amazon.com/CanaKit-Raspberry-Complete-Starter-Kit/dp/B01C6Q2GSY/ref=sxin_2_ac_d_pm?ac_md=4-1-QmV0d2VlbiAkNTAgYW5kICQ3NQ%3D%3D-ac_d_pm&cv_ct_cx=Raspberry+Pi&keywords=Raspberry+Pi&pd_rd_i=B01C6Q2GSY&pd_rd_r=30b17f90-a6a4-4a57-9cb2-a75f23ab7715&pd_rd_w=us3XG&pd_rd_wg=yPxDC&pf_rd_p=0e223c60-bcf8-4663-98f3-da892fbd4372&pf_rd_r=00JXJ6364R7A43MMKQ93&psc=1&qid=1583364148",
+            "name": "CanaKit Raspberry Pi 3 Complete Starter Kit - 32 GB Edition",
+            "prev_price": 61.82,
+            "price": 61.82
+        },
+        {
+            "link": "https://www.amazon.com/CanaKit-Raspberry-4GB-Starter-Kit/dp/B07V5JTMV9/ref=sxin_2_ac_d_pm?ac_md=5-2-QWJvdmUgJDc1-ac_d_pm&cv_ct_cx=Raspberry+Pi&keywords=Raspberry+Pi&pd_rd_i=B07V5JTMV9&pd_rd_r=30b17f90-a6a4-4a57-9cb2-a75f23ab7715&pd_rd_w=us3XG&pd_rd_wg=yPxDC&pf_rd_p=0e223c60-bcf8-4663-98f3-da892fbd4372&pf_rd_r=00JXJ6364R7A43MMKQ93&psc=1&qid=1583364148",
+            "name": "CanaKit Raspberry Pi 4 4GB Starter Kit - 4GB RAM",
+            "prev_price": 54.99,
+            "price": 54.99
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Pi-4GB-RAM-Aluminum/dp/B07XTR695G/ref=sxin_3_osp35-ba0f8bee_cov?ascsubtag=ba0f8bee-ff67-4e52-9ec3-fd1b06c8e77b&creativeASIN=B07XTR695G&cv_ct_cx=Raspberry+Pi&cv_ct_id=amzn1.osp.ba0f8bee-ff67-4e52-9ec3-fd1b06c8e77b&cv_ct_pg=search&cv_ct_wn=osp-search&keywords=Raspberry+Pi&linkCode=oas&pd_rd_i=B07XTR695G&pd_rd_r=30b17f90-a6a4-4a57-9cb2-a75f23ab7715&pd_rd_w=kTTiI&pd_rd_wg=yPxDC&pf_rd_p=eb3e5cda-5ec9-4d94-919d-310a5d641b8b&pf_rd_r=00JXJ6364R7A43MMKQ93&qid=1583364148&tag=heavy0013-20",
+            "name": "Raspberry Pi 4 4GB RAM - Aluminum XTG Starter Kit - Vilros",
+            "prev_price": 64.99,
+            "price": 64.99
+        },
+        {
+            "link": "https://www.amazon.com/LABISTS-Raspberry-Complete-Preloaded-Heatsinks/dp/B07YRSYR3M/ref=sxin_3_osp35-ba0f8bee_cov?ascsubtag=ba0f8bee-ff67-4e52-9ec3-fd1b06c8e77b&creativeASIN=B07YRSYR3M&cv_ct_cx=Raspberry+Pi&cv_ct_id=amzn1.osp.ba0f8bee-ff67-4e52-9ec3-fd1b06c8e77b&cv_ct_pg=search&cv_ct_wn=osp-search&keywords=Raspberry+Pi&linkCode=oas&pd_rd_i=B07YRSYR3M&pd_rd_r=30b17f90-a6a4-4a57-9cb2-a75f23ab7715&pd_rd_w=kTTiI&pd_rd_wg=yPxDC&pf_rd_p=eb3e5cda-5ec9-4d94-919d-310a5d641b8b&pf_rd_r=00JXJ6364R7A43MMKQ93&qid=1583364148&tag=heavy0013-20",
+            "name": "LABISTS Raspberry Pi 4 Complete Starter Kit with Pi 4 Model B 4GB RAM Board, 32GB Micro SD Card Preloaded Noobs, 5V 3A Power Supply, Case, HDMI Cable, SD Card Reader (USB A&USB C), Fan, Heatsinks",
+            "prev_price": 26.99,
+            "price": 26.99
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Plus-Ultimate-Kit-Motherboard/dp/B07BGFH2K5/ref=sxin_3_osp35-ba0f8bee_cov?ascsubtag=ba0f8bee-ff67-4e52-9ec3-fd1b06c8e77b&creativeASIN=B07BGFH2K5&cv_ct_cx=Raspberry+Pi&cv_ct_id=amzn1.osp.ba0f8bee-ff67-4e52-9ec3-fd1b06c8e77b&cv_ct_pg=search&cv_ct_wn=osp-search&keywords=Raspberry+Pi&linkCode=oas&pd_rd_i=B07BGFH2K5&pd_rd_r=30b17f90-a6a4-4a57-9cb2-a75f23ab7715&pd_rd_w=kTTiI&pd_rd_wg=yPxDC&pf_rd_p=eb3e5cda-5ec9-4d94-919d-310a5d641b8b&pf_rd_r=00JXJ6364R7A43MMKQ93&qid=1583364148&tag=heavy0013-20",
+            "name": "",
+            "prev_price": 114.99,
+            "price": 114.99
+        },
+        {
+            "link": "https://www.amazon.com/V-Kits-Raspberry-Arcade-Classic-Gamepads/dp/B07CC86PR3/ref=sxin_3_osp35-ba0f8bee_cov?ascsubtag=ba0f8bee-ff67-4e52-9ec3-fd1b06c8e77b&creativeASIN=B07CC86PR3&cv_ct_cx=Raspberry+Pi&cv_ct_id=amzn1.osp.ba0f8bee-ff67-4e52-9ec3-fd1b06c8e77b&cv_ct_pg=search&cv_ct_wn=osp-search&keywords=Raspberry+Pi&linkCode=oas&pd_rd_i=B07CC86PR3&pd_rd_r=30b17f90-a6a4-4a57-9cb2-a75f23ab7715&pd_rd_w=kTTiI&pd_rd_wg=yPxDC&pf_rd_p=eb3e5cda-5ec9-4d94-919d-310a5d641b8b&pf_rd_r=00JXJ6364R7A43MMKQ93&qid=1583364148&tag=heavy0013-20",
+            "name": "",
+            "prev_price": 82.99,
+            "price": 82.99
+        },
+        {
+            "link": "https://www.amazon.com/CanaKit-Raspberry-4GB-Starter-Kit/dp/B07V5JTMV9/ref=sr_1_3?keywords=Raspberry+Pi&qid=1583364148&sr=8-3",
+            "name": "CanaKit Raspberry Pi 4 4GB Starter Kit - 4GB RAM",
+            "prev_price": 57.99,
+            "price": 57.99
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TC2BK1X/ref=sr_1_4?keywords=Raspberry+Pi&qid=1583364148&sr=8-4",
+            "name": "Raspberry Pi 4 Model B 2019 Quad Core 64 Bit WiFi Bluetooth (4GB)",
+            "prev_price": 10.99,
+            "price": 10.99
+        },
+        {
+            "link": "https://www.amazon.com/CanaKit-Raspberry-Premium-Supply-Listed/dp/B01C6EQNNK/ref=sr_1_5?keywords=Raspberry+Pi&qid=1583364148&sr=8-5",
+            "name": "CanaKit Raspberry Pi 3 Kit with Premium Clear Case and 2.5A Power Supply (UL Listed)",
+            "prev_price": 66.99,
+            "price": 66.99
+        },
+        {
+            "link": "https://www.amazon.com/CanaKit-Raspberry-Premium-Clear-Supply/dp/B07BC7BMHY/ref=sr_1_6?keywords=Raspberry+Pi&qid=1583364148&sr=8-6",
+            "name": "CanaKit Raspberry Pi 3 B+ (B Plus) with Premium Clear Case and 2.5A Power Supply",
+            "prev_price": 49.98,
+            "price": 49.98
+        },
+        {
+            "link": "https://www.amazon.com/Vilros-Raspberry-Starter-Power-Premium/dp/B0748MPQT4/ref=sr_1_7?keywords=Raspberry+Pi&qid=1583364148&sr=8-7",
+            "name": "Vilros Raspberry Pi Zero W Basic Starter Kit- Black Case Edition-Includes Pi Zero W -Power Supply & Premium Black Case",
+            "prev_price": 84.99,
+            "price": 84.99
+        },
+        {
+            "link": "https://www.amazon.com/CanaKit-Raspberry-4GB-Starter-MAX/dp/B07XPHWPRB/ref=sr_1_8?keywords=Raspberry+Pi&qid=1583364148&sr=8-8",
+            "name": "CanaKit Raspberry Pi 4 4GB Starter MAX Kit - 64GB Edition",
+            "prev_price": 41.99,
+            "price": 41.99
+        },
+        {
+            "link": "https://www.amazon.com/CanaKit-Raspberry-4GB-Basic-Starter/dp/B07VYC6S56/ref=sr_1_9?keywords=Raspberry+Pi&qid=1583364148&sr=8-9",
+            "name": "CanaKit Raspberry Pi 4 4GB Basic Starter Kit with Fan (4GB RAM)",
+            "prev_price": 49.99,
+            "price": 37.49
+        },
+        {
+            "link": "https://www.amazon.com/CanaKit-Raspberry-Power-Supply-Listed/dp/B07BC6WH7V/ref=sr_1_10?keywords=Raspberry+Pi&qid=1583364148&sr=8-10",
+            "name": "CanaKit Raspberry Pi 3 B+ (B Plus) with 2.5A Power Supply (UL Listed)",
+            "prev_price": 63.99,
+            "price": 63.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A0272144PZ5PWYT7BYZJ&url=%2FVilros-Raspberry-Power-Supply-Switch%2Fdp%2FB07W81T7HF%2Fref%3Dsr_1_11_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364148%26sr%3D8-11-spons%26psc%3D1&qualifier=1583364148&id=7621996609429531&widgetName=sp_mtf",
+            "name": "Vilros Raspberry Pi 4 Power Supply (USB-C) with on/Off Switch",
+            "prev_price": 49.99,
+            "price": 49.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_2?ie=UTF8&adId=A02736603TH2W64XUAEZH&url=%2FVilros-Raspberry-Fan-Cooled-Heavy-Duty-Aluminum%2Fdp%2FB07XTRFD3Z%2Fref%3Dsr_1_12_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364148%26sr%3D8-12-spons%26psc%3D1&qualifier=1583364148&id=7621996609429531&widgetName=sp_mtf",
+            "name": "Vilros Raspberry Pi 4 Basic Starter Kit with Fan-Cooled Heavy-Duty Aluminum Alloy Case (2GB, Black)",
+            "prev_price": 49.95,
+            "price": 49.95
+        },
+        {
+            "link": "https://www.amazon.com/ELEMENT-Element14-Raspberry-Pi-Motherboard/dp/B07BDR5PDW/ref=sr_1_13?keywords=Raspberry+Pi&qid=1583364148&sr=8-13",
+            "name": "Element14 Raspberry Pi 3 B+ Motherboard",
+            "prev_price": 119.99,
+            "price": 99.97
+        },
+        {
+            "link": "https://www.amazon.com/CanaKit-Raspberry-Starter-Premium-Black/dp/B07BCC8PK7/ref=sr_1_14?keywords=Raspberry+Pi&qid=1583364148&sr=8-14",
+            "name": "CanaKit Raspberry Pi 3 B+ (B Plus) Starter Kit (32 GB EVO+ Edition, Premium Black Case)",
+            "prev_price": 49.99,
+            "price": 46.99
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Pi-MS-004-00000024-Model-Board/dp/B01LPLPBS8/ref=sr_1_15?keywords=Raspberry+Pi&qid=1583364148&sr=8-15",
+            "name": "Raspberry Pi 3 Model B Board",
+            "prev_price": 82.99,
+            "price": 82.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg2_1?ie=UTF8&adId=A02710083F7SGU1ZP0Q1F&url=%2FVilros-Raspberry-USB-C-Adapters-Quickstart%2Fdp%2FB07TWJ71GD%2Fref%3Dsr_1_17_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364152%26sr%3D8-17-spons%26psc%3D1&qualifier=1583364152&id=8797502322403157&widgetName=sp_atf_next",
+            "name": "Vilros Raspberry Pi 4 with USB-C & Micro HDMI Adapters Quickstart Guide E-Book (1GB)",
+            "prev_price": 44.99,
+            "price": 44.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg2_2?ie=UTF8&adId=A027273634HPWK23XD6RX&url=%2FVilros-Raspberry-Fan-Cooled-Heavy-Duty-Aluminum%2Fdp%2FB07XTR352D%2Fref%3Dsr_1_18_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364152%26sr%3D8-18-spons%26psc%3D1&qualifier=1583364152&id=8797502322403157&widgetName=sp_atf_next",
+            "name": "Vilros Raspberry Pi 4 Basic Starter Kit with Fan-Cooled Heavy-Duty Aluminum Alloy Case (1GB, Black)",
+            "prev_price": 63.99,
+            "price": 63.99
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Step-Step-Beginners-essentials-ebook/dp/B084RDVN4H/ref=sr_1_19?keywords=Raspberry+Pi&qid=1583364152&sr=8-19",
+            "name": "Raspberry Pi: A Step-by-Step Guide for Beginners to Learn all the essentials of Raspberry Pi and create simple Hardware Projects like an Arcade Box or turning your Device Into a Phone",
+            "prev_price": 0.0,
+            "price": 0.0
+        },
+        {
+            "link": "https://www.amazon.com/Vilros-Raspberry-Complete-Transparent-Cooled/dp/B07VFCZBLH/ref=sr_1_20?keywords=Raspberry+Pi&qid=1583364152&sr=8-20",
+            "name": "Vilros Raspberry Pi 4 Complete Kit with Clear Transparent Fan Cooled Case (1GB)",
+            "prev_price": 76.99,
+            "price": 76.99
+        },
+        {
+            "link": "https://www.amazon.com/What-is-a-Raspberry-Pi/dp/B07ZTWD8PZ/ref=sr_1_21?keywords=Raspberry+Pi&qid=1583364152&sr=8-21",
+            "name": "Raspberry Pi for Beginners - Step by Step to Your first Raspberry Pi Project",
+            "prev_price": 40.0,
+            "price": 40.0
+        },
+        {
+            "link": "https://www.amazon.com/LoveRPi-Power-Over-Ethernet-Raspberry-Professional-Isolated/dp/B07XB5PR9J/ref=sr_1_22?keywords=Raspberry+Pi&qid=1583364152&sr=8-22",
+            "name": "LoveRPi Power-Over-Ethernet (PoE) HAT for Raspberry Pi 4 Model B and Raspberry Pi 3 Model B+ (Professional, Isolated (3KV))",
+            "prev_price": 97.99,
+            "price": 97.99
+        },
+        {
+            "link": "https://www.amazon.com/CanaKit-Raspberry-Starter-Clear-Case/dp/B07YLY143F/ref=sr_1_23?keywords=Raspberry+Pi&qid=1583364152&sr=8-23",
+            "name": "CanaKit Raspberry Pi 4 4GB Starter Kit with Clear Case (4GB RAM)",
+            "prev_price": 62.99,
+            "price": 62.99
+        },
+        {
+            "link": "https://www.amazon.com/Vilros-Raspberry-Fan-Cooled-Heatsinks-Quickstart/dp/B07TKFFCF1/ref=sr_1_24?keywords=Raspberry+Pi&qid=1583364152&sr=8-24",
+            "name": "Vilros - Raspberry Pi 4 Basic Kit [2GB] - Includes Fan-Cooled Case, Power Supply with Switch, Heatsinks, HDMI Adapter, Quickstart Guide",
+            "prev_price": 20.0,
+            "price": 18.41
+        },
+        {
+            "link": "https://www.amazon.com/Security-Testing-Raspberry-Daniel-Dieterle/dp/1072017679/ref=sr_1_25?keywords=Raspberry+Pi&qid=1583364152&sr=8-25",
+            "name": "Security Testing with Raspberry Pi",
+            "prev_price": 34.49,
+            "price": 34.49
+        },
+        {
+            "link": "https://www.amazon.com/Miuzei-Raspberry-Full-Angle-Heatsinks-Raspbian/dp/B07XBVF1C9/ref=sr_1_26?keywords=Raspberry+Pi&qid=1583364152&sr=8-26",
+            "name": "Miuzei Raspberry Pi 4 Touch Screen with Case &Fan, 4 inch IPS Full-Angle Game Display, 800x480 Pixel, Support HDMI Input with Touch Pen, 4 Pcs Heatsinks, (Support Raspbian, Kali)",
+            "prev_price": 82.99,
+            "price": 82.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg2_1?ie=UTF8&adId=A02706722I1YI6AXQJ2J4&url=%2FVilros-Raspberry-Basic-Cooled-Case%2Fdp%2FB07TKFKKMP%2Fref%3Dsr_1_27_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364152%26sr%3D8-27-spons%26psc%3D1&qualifier=1583364152&id=8797502322403157&widgetName=sp_mtf",
+            "name": "Vilros Raspberry Pi 4 Basic Kit with Fan Cooled Case (4GB)",
+            "prev_price": 9.99,
+            "price": 9.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg2_2?ie=UTF8&adId=A027224414ORXS8WHL1DK&url=%2FVilros-Raspberry-Compatible-Built-Transparent%2Fdp%2FB07VK9CN98%2Fref%3Dsr_1_28_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364152%26sr%3D8-28-spons%26psc%3D1&qualifier=1583364152&id=8797502322403157&widgetName=sp_mtf",
+            "name": "Vilros Raspberry Pi 4 Compatible Case with Built in Fan (Clear Transparent)",
+            "prev_price": 74.99,
+            "price": 74.99
+        },
+        {
+            "link": "https://www.amazon.com/CanaKit-Raspberry-Complete-Starter-Kit/dp/B01C6Q2GSY/ref=sr_1_29?keywords=Raspberry+Pi&qid=1583364152&sr=8-29",
+            "name": "CanaKit Raspberry Pi 3 Complete Starter Kit - 32 GB Edition",
+            "prev_price": 94.99,
+            "price": 89.99
+        },
+        {
+            "link": "https://www.amazon.com/V-Kits-Raspberry-Arcade-Classic-Gamepads/dp/B07CC86PR3/ref=sr_1_30?keywords=Raspberry+Pi&qid=1583364152&sr=8-30",
+            "name": "V-Kits Raspberry Pi 3 Model B+ (B Plus) Retro Arcade Gaming Kit with 2 Classic USB Gamepads [2018 Model]",
+            "prev_price": 27.99,
+            "price": 27.99
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-320x480-Monitor-Raspbian-RetroPie/dp/B07N38B86S/ref=sr_1_31?keywords=Raspberry+Pi&qid=1583364152&sr=8-31",
+            "name": "for Raspberry Pi 3 B+ 3.5 inch Touch Screen with Case, 320x480 Pixel Monitor TFT LCD Game Display [Support Raspbian, Ubuntu, Kali, RetroPie System]",
+            "prev_price": 64.0,
+            "price": 64.0
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Pi-7-Touchscreen-Display/dp/B0153R2A9I/ref=sr_1_32?keywords=Raspberry+Pi&qid=1583364152&sr=8-32",
+            "name": "Raspberry Pi 7\" Touch Screen Display",
+            "prev_price": 0.0,
+            "price": 0.0
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Beginners-Everything-Programming-Techniques-ebook/dp/B084DTWS5P/ref=sr_1_33?keywords=Raspberry+Pi&qid=1583364152&sr=8-33",
+            "name": "Raspberry Pi: 2020 Beginners\u2019 Guide . Everything You Need to Know About Raspberry Pi ( Setup, Programming Theory , Techniques ). 25 Ideas to Build Your Own Projects included .",
+            "prev_price": 129.99,
+            "price": 129.99
+        },
+        {
+            "link": "https://www.amazon.com/CanaKit-Raspberry-Complete-Desktop-Starter/dp/B081TMCMSL/ref=sr_1_34?keywords=Raspberry+Pi&qid=1583364152&sr=8-34",
+            "name": "CanaKit Raspberry Pi 4 Complete Desktop Starter Kit (4GB RAM)",
+            "prev_price": 342.0,
+            "price": 342.0
+        },
+        {
+            "link": "https://www.amazon.com/ELECROW-Raspberry-Learning-Programming-Electronics/dp/B07L4RZP6B/ref=sr_1_35?keywords=Raspberry+Pi&qid=1583364152&sr=8-35",
+            "name": "ELECROW Crowpi Raspberry Pi 4B 3B+ Kit for Learning Computer Science, Programming, Electronics(Advanced Kit)",
+            "prev_price": 39.99,
+            "price": 39.99
+        },
+        {
+            "link": "https://www.amazon.com/Assembly-Language-Using-Raspberry-Pi/dp/0970112416/ref=sr_1_36?keywords=Raspberry+Pi&qid=1583364152&sr=8-36",
+            "name": "Assembly Language Using the Raspberry Pi: A Hardware Software Bridge",
+            "prev_price": 104.0,
+            "price": 104.0
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg2_1?ie=UTF8&adId=A0273316364P1YTQ8J35O&url=%2FRaspberry-Pi-4GB-RAM-Aluminum%2Fdp%2FB07XTR695G%2Fref%3Dsr_1_37_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364152%26sr%3D8-37-spons%26psc%3D1&qualifier=1583364152&id=8797502322403157&widgetName=sp_btf",
+            "name": "Raspberry Pi 4 4GB RAM - Aluminum XTG Starter Kit - Vilros",
+            "prev_price": 83.99,
+            "price": 83.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg3_1?ie=UTF8&adId=A025326025Q5QMCNN7ZMW&url=%2FCanaKit-Raspberry-4GB-Starter-MAX%2Fdp%2FB07XPHWPRB%2Fref%3Dsr_1_33_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364155%26sr%3D8-33-spons%26psc%3D1&qualifier=1583364155&id=1023471111278530&widgetName=sp_atf_next",
+            "name": "CanaKit Raspberry Pi 4 4GB Starter MAX Kit - 64GB Edition",
+            "prev_price": 114.99,
+            "price": 114.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg3_2?ie=UTF8&adId=A0052889DN9FNDEDHZDK&url=%2FNEEGO-Raspberry-Complete-Touchscreen-Keyboard%2Fdp%2FB08245LC71%2Fref%3Dsr_1_34_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364155%26sr%3D8-34-spons%26psc%3D1&qualifier=1583364155&id=1023471111278530&widgetName=sp_atf_next",
+            "name": "NEEGO Raspberry Pi 4 4GB Complete Kit, with Touchscreen, Keyboard and Case - 4GB RAM",
+            "prev_price": 199.99,
+            "price": 199.99
+        },
+        {
+            "link": "https://www.amazon.com/GamePi43-Accessories-Kit-Raspberry-Experience/dp/B07Z88TVGS/ref=sr_1_35?keywords=Raspberry+Pi&qid=1583364155&sr=8-35",
+            "name": "GamePi43 Accessories Kit for Raspberry Pi 3B+/3B/2B/B+ Portable Retro Video Handheld Game Console with 4.3inch IPS Display 800x480 Pixel 60 fps Smooth Gaming Experience Onboard Speaker Earphone Jack",
+            "prev_price": 84.2,
+            "price": 84.2
+        },
+        {
+            "link": "https://www.amazon.com/Arducam-Raspberry-Camera-Module-Megapixel/dp/B083BHJZ16/ref=sr_1_36?keywords=Raspberry+Pi&qid=1583364155&sr=8-36",
+            "name": "Arducam Raspberry Pi Camera Module V2-8 Megapixel,1080p",
+            "prev_price": 22.99,
+            "price": 22.99
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Complete-Starter-Cooling-Heavy-Aluminum/dp/B07BDQZ2TB/ref=sr_1_37?keywords=Raspberry+Pi&qid=1583364155&sr=8-37",
+            "name": "V-Kits Raspberry Pi 3 Model B+ (Plus) Complete Starter Kit with Raspberry Pi Cooling-Heavy Duty Aluminum Case [2018 Model]",
+            "prev_price": 84.99,
+            "price": 74.99
+        },
+        {
+            "link": "https://www.amazon.com/CanaKit-Raspberry-Wireless-Complete-Starter/dp/B072N3X39J/ref=sr_1_38?keywords=Raspberry+Pi&qid=1583364155&sr=8-38",
+            "name": "CanaKit Raspberry Pi Zero W (Wireless) Complete Starter Kit - 16 GB Edition",
+            "prev_price": 32.99,
+            "price": 32.99
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Touchscreen-320x480-Monitor-Display/dp/B07WQW6H9S/ref=sr_1_39?keywords=Raspberry+Pi&qid=1583364155&sr=8-39",
+            "name": "for Raspberry Pi 4 Touch Screen with Case, 3.5 inch Touchscreen with Fan, 320x480 Monitor TFT LCD Game Display",
+            "prev_price": 32.99,
+            "price": 29.99
+        },
+        {
+            "link": "https://www.amazon.com/Exploring-Raspberry-Pi-Interfacing-Embedded/dp/1119188687/ref=sr_1_40?keywords=Raspberry+Pi&qid=1583364155&sr=8-40",
+            "name": "Exploring Raspberry Pi: Interfacing to the Real World with Embedded Linux",
+            "prev_price": 35.0,
+            "price": 21.49
+        },
+        {
+            "link": "https://www.amazon.com/SmartiPi-Touch-Official-Raspberry-Touchscreen/dp/B07WXK38YM/ref=sr_1_41?keywords=Raspberry+Pi&qid=1583364155&sr=8-41",
+            "name": "SmartiPi Touch 2 - Case for The Official Raspberry Pi 7\" Touchscreen Display - with Cooling Fan",
+            "prev_price": 27.99,
+            "price": 27.99
+        },
+        {
+            "link": "https://www.amazon.com/Vilros-Raspberry-Starter-Power-Premium/dp/B0748MBFTS/ref=sr_1_42?keywords=Raspberry+Pi&qid=1583364155&sr=8-42",
+            "name": "Vilros Raspberry Pi Zero W Basic Starter Kit- Clear Case Edition-Includes Pi Zero W -Power Supply & Premium Clear Case",
+            "prev_price": 26.99,
+            "price": 26.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg3_1?ie=UTF8&adId=A02737163A8LJ33W9TG5U&url=%2FRaspberry-USB-C-Adapters-Vilros-Quickstart%2Fdp%2FB07TVVJZQT%2Fref%3Dsr_1_43_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364155%26sr%3D8-43-spons%26psc%3D1&qualifier=1583364155&id=1023471111278530&widgetName=sp_mtf",
+            "name": "Raspberry Pi 4 with USB-C & Micro HDMI Adapters and Vilros Quickstart Guide E-Book (4GB)",
+            "prev_price": 66.99,
+            "price": 66.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg3_2?ie=UTF8&adId=A02707961KQ372135VLR2&url=%2FVilros-Raspberry-Basic-Cover-Clear%2Fdp%2FB07TKDVWTX%2Fref%3Dsr_1_44_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364155%26sr%3D8-44-spons%26psc%3D1&qualifier=1583364155&id=1023471111278530&widgetName=sp_mtf",
+            "name": "Vilros Raspberry Pi 4 Basic Kit with Dual Cover Clear Case (4GB)",
+            "prev_price": 19.99,
+            "price": 17.99
+        },
+        {
+            "link": "https://www.amazon.com/RASPBERRY-Essential-Beginners-Raspberry-Programming/dp/B083XTGHJ2/ref=sr_1_45?keywords=Raspberry+Pi&qid=1583364155&sr=8-45",
+            "name": "RASPBERRY PI: An Essential Beginner\u2019s Guide to Learn the Realms of Raspberry Pi Programming from A-Z",
+            "prev_price": 39.99,
+            "price": 39.99
+        },
+        {
+            "link": "https://www.amazon.com/GeeekPi-Raspberry-Stackable-Heatsink-4-Layers/dp/B083FDHPBH/ref=sr_1_46?keywords=Raspberry+Pi&qid=1583364155&sr=8-46",
+            "name": "GeeekPi Raspberry Pi Cluster Case, Raspberry Pi Rack Case Stackable Case with Cooling Fan 120mm RGB LED 5V Fan and Raspberry Pi Heatsink for Raspberry Pi 4B/3B+/3B/2B/B+ and Jetson Nano (4-Layers)",
+            "prev_price": 27.99,
+            "price": 27.99
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Camera-Vision-IR-Cut-Longruner/dp/B07R4JH2ZV/ref=sr_1_47?keywords=Raspberry+Pi&qid=1583364155&sr=8-47",
+            "name": "for Raspberry pi Camera Day & Night Vision, IR-Cut Video Camera 1080p HD Webcam 5MP OV5647 Sensor for Raspberry Pi RPi 4 3 B B+ 2B 3A+ 2 1 Camera by Longruner",
+            "prev_price": 24.95,
+            "price": 16.39
+        },
+        {
+            "link": "https://www.amazon.com/Learn-Robotics-Raspberry-Pi-Thinking/dp/1593279205/ref=sr_1_48?keywords=Raspberry+Pi&qid=1583364155&sr=8-48",
+            "name": "Learn Robotics with Raspberry Pi: Build and Code Your Own Moving, Sensing, Thinking Robots",
+            "prev_price": 22.99,
+            "price": 22.99
+        },
+        {
+            "link": "https://www.amazon.com/UCTRONICS-Raspberry-Ethernet-Expansion-Cooling/dp/B082ZJYCS3/ref=sr_1_49?keywords=Raspberry+Pi&qid=1583364155&sr=8-49",
+            "name": "UCTRONICS PoE HAT for Raspberry Pi 4, Mini Power Over Ethernet Expansion Board for Raspberry Pi 4 B 3 B+, with Cooling Fan",
+            "prev_price": 31.99,
+            "price": 31.99
+        },
+        {
+            "link": "https://www.amazon.com/CanaKit-Raspberry-Wireless-Complete-Starter/dp/B07CMVDHWB/ref=sr_1_50?keywords=Raspberry+Pi&qid=1583364155&sr=8-50",
+            "name": "CanaKit Raspberry Pi Zero W (Wireless) Complete Starter Kit with Premium Black Case",
+            "prev_price": 19.99,
+            "price": 18.99
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Comprehensive-Programming-techniques-Developing/dp/1071276131/ref=sr_1_51?keywords=Raspberry+Pi&qid=1583364155&sr=8-51",
+            "name": "Raspberry Pi: A Comprehensive Beginner's Guide to Setup, Programming(Concepts and techniques) and Developing Cool Raspberry Pi Projects",
+            "prev_price": 45.99,
+            "price": 45.99
+        },
+        {
+            "link": "https://www.amazon.com/LoveRPi-Raspberry-Model-Computer-Heatsinks/dp/B07WFWR5RF/ref=sr_1_52?keywords=Raspberry+Pi&qid=1583364155&sr=8-52",
+            "name": "LoveRPi Raspberry Pi 4 Model B 2GB Computer with Heatsinks",
+            "prev_price": 62.99,
+            "price": 59.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg3_1?ie=UTF8&adId=A02779722QRFFJYF0CD36&url=%2FVilros-Raspberry-Basic-Cooled-Case%2Fdp%2FB07TLG6Q66%2Fref%3Dsr_1_53_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364155%26sr%3D8-53-spons%26psc%3D1&qualifier=1583364155&id=1023471111278530&widgetName=sp_btf",
+            "name": "Vilros Raspberry Pi 4 Basic Kit with Fan Cooled Case (1GB)",
+            "prev_price": 79.99,
+            "price": 79.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg4_1?ie=UTF8&adId=A08651551TQBIWZK7EWYX&url=%2FEyoyo-1366x768-Security-Raspberry-Speakers%2Fdp%2FB07YJN291S%2Fref%3Dsr_1_49_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364159%26sr%3D8-49-spons%26psc%3D1&qualifier=1583364159&id=5491679444035291&widgetName=sp_atf_next",
+            "name": "Small HDMI Monitor, Eyoyo 12 Inch Monitor 1366x768 IPS Screen CCTV Security Monitor Small PC Screen Raspberry Pi Monitor with HDMI VGA AV BNC Input Built-in Dual Speakers",
+            "prev_price": 106.99,
+            "price": 106.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg4_2?ie=UTF8&adId=A0270360G0UPS8T2MU0S&url=%2FVilros-Raspberry-Basic-Black-Cooled%2Fdp%2FB07TMGBPFQ%2Fref%3Dsr_1_50_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364159%26sr%3D8-50-spons%26psc%3D1&qualifier=1583364159&id=5491679444035291&widgetName=sp_atf_next",
+            "name": "Vilros Raspberry Pi 4 Basic Kit with Black Fan Cooled Case (2GB)",
+            "prev_price": 62.99,
+            "price": 62.99
+        },
+        {
+            "link": "https://www.amazon.com/SunFounder-Raspberry-Compatible-Electronics-Programming/dp/B07WV2HYC6/ref=sr_1_51?keywords=Raspberry+Pi&qid=1583364159&sr=8-51",
+            "name": "SunFounder Raspberry Pi Starter Kit with Detailed Tutorials Compatible with Raspberry Pi 4 B 3 B+, Support Python C, Learn Electronics and Programming for Raspberry Pi Beginners",
+            "prev_price": 46.99,
+            "price": 46.99
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Armor-Metal-Aluminium-Heatsink/dp/B07VWM4J4L/ref=sr_1_52?keywords=Raspberry+Pi&qid=1583364159&sr=8-52",
+            "name": "Pi 4 Case, Raspberry Pi 4 Armor Case Metal Case with Dual Fan Aluminium Alloy, Raspberry Pi 4 Fan, Pi 4 Heatsink for Raspberry Pi 4 Model/Pi 4B",
+            "prev_price": 17.99,
+            "price": 17.99
+        },
+        {
+            "link": "https://www.amazon.com/Camera-Module-Raspberry-Webcam-Megapixel/dp/B07QNSJ32M/ref=sr_1_53?keywords=Raspberry+Pi&qid=1583364159&sr=8-53",
+            "name": "Raspberry Pi Camera Video Module 5 Megapixel 1080p Mini Webcam Sensor OV5647 for Raspberry Pi Model A/B/B+, RPi 2B Pi 3B 3B+ and Pi 4B",
+            "prev_price": 9.27,
+            "price": 8.77
+        },
+        {
+            "link": "https://www.amazon.com/Vilros-Raspberry-Clear-Power-Supply/dp/B07BDRD3LP/ref=sr_1_54?keywords=Raspberry+Pi&qid=1583364159&sr=8-54",
+            "name": "Vilros Raspberry Pi 3 B+ (B Plus) with Dual Clear Case and 2.5A Power Supply [2018 Model]",
+            "prev_price": 59.99,
+            "price": 59.99
+        },
+        {
+            "link": "https://www.amazon.com/Geekworm-Raspberry-Storage-Expansion-Compatible/dp/B07VXF2HJG/ref=sr_1_55?keywords=Raspberry+Pi&qid=1583364159&sr=8-55",
+            "name": "Geekworm Raspberry Pi 4 SATA Storage, Raspberry Pi 4 Model B 2.5 inch SATA HDD/SSD Expansion Board X825 USB3.0 Shield Compatible with Raspberry Pi 4B Only",
+            "prev_price": 32.89,
+            "price": 32.89
+        },
+        {
+            "link": "https://www.amazon.com/seeed-studio-Raspberry-Computer-Workstation/dp/B07WBZM4K9/ref=sr_1_56?keywords=Raspberry+Pi&qid=1583364159&sr=8-56",
+            "name": "seeed studio Raspberry Pi 4 Model B [4GB] RAM, Single Board Computer Suitable for Building Mini PC/Smart Robot/Game Console/Workstation/Media Center/Etc.",
+            "prev_price": 76.99,
+            "price": 61.66
+        },
+        {
+            "link": "https://www.amazon.com/NEEGO-Raspberry-Complete-Touchscreen-Keyboard/dp/B08245LC71/ref=sr_1_57?keywords=Raspberry+Pi&qid=1583364159&sr=8-57",
+            "name": "NEEGO Raspberry Pi 4 4GB Complete Kit, with Touchscreen, Keyboard and Case - 4GB RAM",
+            "prev_price": 199.99,
+            "price": 199.99
+        },
+        {
+            "link": "https://www.amazon.com/LABISTS-Raspberry-Complete-Preloaded-Heatsinks/dp/B07Z1QFLNH/ref=sr_1_58?keywords=Raspberry+Pi&qid=1583364159&sr=8-58",
+            "name": "LABISTS Raspberry Pi 4 Complete Starter Kit with Pi 4 Model B 4GB RAM Board, 64GB Micro SD Card Preloaded Noobs, 5V 3A Power Supply, Case, HDMI Cable, SD Card Reader (USB A&USB C), Fan, Heatsinks",
+            "prev_price": 129.99,
+            "price": 114.97
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg4_1?ie=UTF8&adId=A02708522H6XMUL52C9R6&url=%2FVilros-Raspberry-Basic-Starter-Official%2Fdp%2FB07TLG1HFY%2Fref%3Dsr_1_59_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364159%26sr%3D8-59-spons%26psc%3D1&qualifier=1583364159&id=5491679444035291&widgetName=sp_mtf",
+            "name": "Vilros Raspberry Pi 4 Basic Starter Kit with Official Case (Red/White) (4GB)",
+            "prev_price": 81.99,
+            "price": 81.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg4_2?ie=UTF8&adId=A02720883GBSO0ZB1A672&url=%2FVilros-Raspberry-Complete-Starter-Official%2Fdp%2FB07VF8C8ST%2Fref%3Dsr_1_60_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364159%26sr%3D8-60-spons%26psc%3D1&qualifier=1583364159&id=5491679444035291&widgetName=sp_mtf",
+            "name": "Vilros Raspberry Pi 4 Complete Starter Kit with Official Case (Red/White) (4GB)",
+            "prev_price": 99.99,
+            "price": 99.99
+        },
+        {
+            "link": "https://www.amazon.com/Vilros-Raspberry-Basic-Starter-Official/dp/B07TLG1RWD/ref=sr_1_61?keywords=Raspberry+Pi&qid=1583364159&sr=8-61",
+            "name": "Vilros Raspberry Pi 4 Basic Starter Kit with Official Case (Red/White) (1GB)",
+            "prev_price": 59.99,
+            "price": 59.99
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Pi-3-Computer-Board/dp/B07KKBCXLY/ref=sr_1_62?keywords=Raspberry+Pi&qid=1583364159&sr=8-62",
+            "name": "Raspberry Pi 3 A+ Computer Board",
+            "prev_price": 38.9,
+            "price": 38.9
+        },
+        {
+            "link": "https://www.amazon.com/CanaKit-Raspberry-Ultimate-Starter-Clear/dp/B07BC567TW/ref=sr_1_63?keywords=Raspberry+Pi&qid=1583364159&sr=8-63",
+            "name": "CanaKit Raspberry Pi 3 B+ (B Plus) Ultimate Starter Kit (32 GB Edition, Clear Case)",
+            "prev_price": 94.99,
+            "price": 89.99
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Pi-Possibilities-Step-Step-ebook/dp/B082D6DM5F/ref=sr_1_64?keywords=Raspberry+Pi&qid=1583364159&sr=8-64",
+            "name": "Raspberry Pi: Project Ideas Book: Discover a New World of Possibilities to Build and Develop Original Projects & Programs (Step-By-Step Updated Guide) (Raspberry Master Series Book 2)",
+            "prev_price": 0.0,
+            "price": 0.0
+        },
+        {
+            "link": "https://www.amazon.com/Yahboom-Professional-Programming-Electronic-Compatible/dp/B07KRVBGQM/ref=sr_1_65?keywords=Raspberry+Pi&qid=1583364159&sr=8-65",
+            "name": "Yahboom Professional Raspberry Pi Tank Smart Robot Kit WiFi Wireless Video Programming Electronic DIY Robot Kit for Teens and Adults Compatible Pi 4B / 3B+(Raspberry Pi not Include)",
+            "prev_price": 138.99,
+            "price": 138.99
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Pi-User-Guide-4th/dp/1119264367/ref=sr_1_66?keywords=Raspberry+Pi&qid=1583364159&sr=8-66",
+            "name": "Raspberry Pi User Guide, 4th Edition",
+            "prev_price": 25.0,
+            "price": 12.79
+        },
+        {
+            "link": "https://www.amazon.com/CanaKit-Raspberry-4GB-Basic-Kit/dp/B07TXKY4Z9/ref=sr_1_67?keywords=Raspberry+Pi&qid=1583364159&sr=8-67",
+            "name": "CanaKit Raspberry Pi 4 4GB Basic Kit (4GB RAM)",
+            "prev_price": 72.99,
+            "price": 72.99
+        },
+        {
+            "link": "https://www.amazon.com/GeeekPi-Retroflag-Raspberry-Heatsink-Carrying/dp/B07X53S356/ref=sr_1_68?keywords=Raspberry+Pi&qid=1583364159&sr=8-68",
+            "name": "GeeekPi Retroflag GPi Case with Raspberry Pi Zero W & Raspberry Pi Heatsink & Black Carrying Bag & 32G SD Card for Raspberry Pi Zero and Zero W with Safe Shutdown (GPi Case with Zero W Bag 32G)",
+            "prev_price": 95.99,
+            "price": 95.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg4_1?ie=UTF8&adId=A0273160G07PN5I9EWXO&url=%2FVilros-Raspberry-Fan-Cooled-Heavy-Duty-Aluminum%2Fdp%2FB07XTRK8D4%2Fref%3Dsr_1_69_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364159%26sr%3D8-69-spons%26psc%3D1&qualifier=1583364159&id=5491679444035291&widgetName=sp_btf",
+            "name": "Vilros Raspberry Pi 4 Basic Starter Kit with Fan-Cooled Heavy-Duty Aluminum Alloy Case (4GB, Black)",
+            "prev_price": 84.99,
+            "price": 84.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg4_2?ie=UTF8&adId=A0272268Z0SSY0NNIRG9&url=%2FVilros-Accessories-Raspberry-Case-Power-Heatsink%2Fdp%2FB07WGJ4GK8%2Fref%3Dsr_1_70_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364159%26sr%3D8-70-spons%26psc%3D1&qualifier=1583364159&id=5491679444035291&widgetName=sp_btf",
+            "name": "Vilros Accessories Starter Pack for Raspberry Pi 4-Includes Fan Cooled Case-Power Supply -Heatsink (Set of 4) & Micro HDMI Adapter",
+            "prev_price": 17.99,
+            "price": 17.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg5_1?ie=UTF8&adId=A06722022GEUD44RJDKCY&url=%2FRaspberry-Preloaded-Perfectly-Collection-Boxart%25EF%25BC%258CPlug%2Fdp%2FB082Z7256D%2Fref%3Dsr_1_65_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364163%26sr%3D8-65-spons%26psc%3D1&qualifier=1583364163&id=1694624125174366&widgetName=sp_atf_next",
+            "name": "Raspberry Pi Retropie 128GB Preloaded Games MicroSD Card, Perfectly Supports Pi 4B System, Built-in Classic Games, Class 10, Premium Collection with Video Previews & 3D Boxart\uff0cPlug and Play",
+            "prev_price": 69.99,
+            "price": 69.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg5_2?ie=UTF8&adId=A027135212W51RX0H4ODZ&url=%2FVilros-Raspberry-Complete-Transparent-Cooled%2Fdp%2FB07VFCZBLH%2Fref%3Dsr_1_66_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364163%26sr%3D8-66-spons%26psc%3D1&qualifier=1583364163&id=1694624125174366&widgetName=sp_atf_next",
+            "name": "Vilros Raspberry Pi 4 Complete Kit with Clear Transparent Fan Cooled Case (1GB)",
+            "prev_price": 76.99,
+            "price": 76.99
+        },
+        {
+            "link": "https://www.amazon.com/LABISTS-Raspberry-Camera-Official-8-megapixel/dp/B07W6THFPH/ref=sr_1_67?keywords=Raspberry+Pi&qid=1583364163&sr=8-67",
+            "name": "LABISTS Raspberry Pi Camera V2 Webcam RPI Camera Module Official IMX219 8-megapixel Sensor",
+            "prev_price": 26.59,
+            "price": 26.59
+        },
+        {
+            "link": "https://www.amazon.com/GeeekPi-Raspberry-Cooling-Cooler-Heatsink/dp/B07V35SXMC/ref=sr_1_68?keywords=Raspberry+Pi&qid=1583364163&sr=8-68",
+            "name": "GeeekPi Raspberry Pi Cooling Fan, Raspberry Pi ICE Tower Cooler, RGB Cooling Fan with Raspberry Pi Heatsink for Raspberry Pi 4 Model B & Raspberry Pi 3B+ & Raspberry Pi 3 Model B",
+            "prev_price": 22.9,
+            "price": 22.9
+        },
+        {
+            "link": "https://www.amazon.com/Argon-Raspberry-Heatsink-Supports-Accessible/dp/B07WMG27T7/ref=sr_1_69?keywords=Raspberry+Pi&qid=1583364163&sr=8-69",
+            "name": "Argon NEO Raspberry Pi 4 Model B Heatsink Case | Supports Cooling Fan, Camera, and LCD Display | GPIO and PoE Pins are Accessible",
+            "prev_price": 15.0,
+            "price": 15.0
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Screen-Monitor-Touchscreen-Display/dp/B081VT2CPW/ref=sr_1_70?keywords=Raspberry+Pi&qid=1583364163&sr=8-70",
+            "name": "NeeGo Raspberry Pi 4 Screen Case for Raspberry Pi Monitor Touchscreen Display 7-inch",
+            "prev_price": 29.99,
+            "price": 24.99
+        },
+        {
+            "link": "https://www.amazon.com/Vilros-Raspberry-Clear-Power-Supply/dp/B01D92SSX6/ref=sr_1_71?keywords=Raspberry+Pi&qid=1583364163&sr=8-71",
+            "name": "Vilros Raspberry Pi 3 Kit with Clear Case and 2.5A Power Supply",
+            "prev_price": 62.99,
+            "price": 62.99
+        },
+        {
+            "link": "https://www.amazon.com/Vilros-Raspberry-Kit-Premium-Essential-Accessories/dp/B0748NK116/ref=sr_1_72?keywords=Raspberry+Pi&qid=1583364163&sr=8-72",
+            "name": "Vilros Raspberry Pi Zero W Complete Starter Kit-Premium Black Case Edition-Includes Pi Zero W and 7 Essential Accessories",
+            "prev_price": 34.99,
+            "price": 34.99
+        },
+        {
+            "link": "https://www.amazon.com/CanaKit-Raspberry-Complete-Starter-Premium/dp/B07BLRSKBV/ref=sr_1_73?keywords=Raspberry+Pi&qid=1583364163&sr=8-73",
+            "name": "CanaKit Raspberry Pi 3 B+ (B Plus) Complete Starter Kit (16 GB Edition, Premium Clear Case)",
+            "prev_price": 79.99,
+            "price": 79.99
+        },
+        {
+            "link": "https://www.amazon.com/Miuzei-Raspberry-Aluminum-Included-Black/dp/B07VX3HQGJ/ref=sr_1_74?keywords=Raspberry+Pi&qid=1583364163&sr=8-74",
+            "name": "Miuzei Case for Raspberry Pi 4 with Large Fan and 4 \u00d7 Aluminum Heat Sinks for Raspberry Pi 4 Model B(Pi 4 Board Not Included)-Black/Blue",
+            "prev_price": 10.99,
+            "price": 10.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg5_1?ie=UTF8&adId=A02781521KONBMJUM7CLL&url=%2FVilros-Raspberry-Basic-Starter-Official%2Fdp%2FB07TLG1RWD%2Fref%3Dsr_1_75_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364163%26sr%3D8-75-spons%26psc%3D1&qualifier=1583364163&id=1694624125174366&widgetName=sp_mtf",
+            "name": "Vilros Raspberry Pi 4 Basic Starter Kit with Official Case (Red/White) (1GB)",
+            "prev_price": 59.99,
+            "price": 59.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg5_2?ie=UTF8&adId=A02714081LKMV93N80C3R&url=%2FVilros-Raspberry-Complete-Starter-Official%2Fdp%2FB07VB558FS%2Fref%3Dsr_1_76_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364163%26sr%3D8-76-spons%26psc%3D1&qualifier=1583364163&id=1694624125174366&widgetName=sp_mtf",
+            "name": "Vilros Raspberry Pi 4 Complete Starter Kit with Official Case (Red/White) (1GB)",
+            "prev_price": 76.99,
+            "price": 76.99
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Pi-Cookbook-Software-Solutions-ebook/dp/B07Z78XCTH/ref=sr_1_77?keywords=Raspberry+Pi&qid=1583364163&sr=8-77",
+            "name": "Raspberry Pi Cookbook: Software and Hardware Problems and Solutions",
+            "prev_price": 42.99,
+            "price": 25.99
+        },
+        {
+            "link": "https://www.amazon.com/Dorhea-Raspberry-Cluster-Stacking-5-Layers/dp/B07XRF4GRS/ref=sr_1_78?keywords=Raspberry+Pi&qid=1583364163&sr=8-78",
+            "name": "Dorhea Raspberry Pi 4 B Case, Raspberry Pi Rack Cluster Case Stacking Case with Cooling Fan and Fan Cover for Raspberry Pi 4,Raspberry Pi 3 Model B B+, Raspberry Pi 2 Model B,Pi B+ (5-Layers)",
+            "prev_price": 23.99,
+            "price": 23.99
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Pi-Beginners-Guide-Projects/dp/169622540X/ref=sr_1_79?keywords=Raspberry+Pi&qid=1583364163&sr=8-79",
+            "name": "Raspberry Pi 4 Beginner\u2019s Guide: The Beginner\u2019s Guide to Master Raspberry Pi 4 as your new PC and Build Amazing Projects",
+            "prev_price": 11.59,
+            "price": 11.59
+        },
+        {
+            "link": "https://www.amazon.com/Flirc-Raspberry-Pi-Case-Silver/dp/B07WG4DW52/ref=sr_1_80?keywords=Raspberry+Pi&qid=1583364163&sr=8-80",
+            "name": "Flirc Raspberry Pi 4 Case (Silver)",
+            "prev_price": 15.95,
+            "price": 15.95
+        },
+        {
+            "link": "https://www.amazon.com/ELEMENT-Element14-Raspberry-Pi-Motherboard/dp/B07P4LSDYV/ref=sr_1_81?keywords=Raspberry+Pi&qid=1583364163&sr=8-81",
+            "name": "Raspberry Pi 3 Model B+ Board (3B+)",
+            "prev_price": 55.96,
+            "price": 55.96
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Pi-Model-Desktop-Linux/dp/B00T2U7R7I/ref=sr_1_82?keywords=Raspberry+Pi&qid=1583364163&sr=8-82",
+            "name": "Raspberry Pi 2 Model B Desktop (Quad Core CPU 900 MHz, 1 GB RAM, Linux)",
+            "prev_price": 27.99,
+            "price": 27.99
+        },
+        {
+            "link": "https://www.amazon.com/CanaKit-Raspberry-Wireless-Official-Supply/dp/B071L2ZQZX/ref=sr_1_83?keywords=Raspberry+Pi&qid=1583364163&sr=8-83",
+            "name": "CanaKit Raspberry Pi Zero W (Wireless) with Official Case and Power Supply",
+            "prev_price": 56.99,
+            "price": 53.99
+        },
+        {
+            "link": "https://www.amazon.com/Vilros-Raspberry-Basic-Cover-Clear/dp/B07TKDVWTX/ref=sr_1_84?keywords=Raspberry+Pi&qid=1583364163&sr=8-84",
+            "name": "Vilros Raspberry Pi 4 Basic Kit with Dual Cover Clear Case (4GB)",
+            "prev_price": 74.99,
+            "price": 74.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg6_1?ie=UTF8&adId=A10224009UHKKRY7VOMU&url=%2FLABISTS-Raspberry-Camera-Heatsinks-Access%2Fdp%2FB07WBZFXRQ%2Fref%3Dsr_1_81_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364166%26sr%3D8-81-spons%26psc%3D1&qualifier=1583364166&id=7756132143291096&widgetName=sp_atf_next",
+            "name": "LABISTS Raspberry Pi 4 Case with RPI4 Camera Hole, Fan Space, 3 Heatsinks Space, Access to All Output Port, 5.1V 3A USB-C Power Supply for Raspberry Pi 4 Model B",
+            "prev_price": 15.49,
+            "price": 15.49
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg6_2?ie=UTF8&adId=A02705161N7OIA26NWQTX&url=%2FVilros-Raspberry-Basic-Starter-Official%2Fdp%2FB07TKFFCDZ%2Fref%3Dsr_1_82_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364166%26sr%3D8-82-spons%26psc%3D1&qualifier=1583364166&id=7756132143291096&widgetName=sp_atf_next",
+            "name": "Vilros Raspberry Pi 4 Basic Starter Kit with Official Case (Red/White) (2GB)",
+            "prev_price": 62.99,
+            "price": 62.99
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-CanaKit-Sinks-Micro-Converter/dp/B07V1JMWWJ/ref=sr_1_83?keywords=Raspberry+Pi&qid=1583364166&sr=8-83",
+            "name": "Raspberry Pi 4 with CanaKit Heat Sinks and Micro USB to USB-C Converter (2GB RAM)",
+            "prev_price": 44.9,
+            "price": 44.9
+        },
+        {
+            "link": "https://www.amazon.com/DK-Workbooks-Raspberry-Projects-Introduction/dp/1465457038/ref=sr_1_84?keywords=Raspberry+Pi&qid=1583364166&sr=8-84",
+            "name": "DK Workbooks: Raspberry Pi Projects: An Introduction to the Raspberry Pi Computer",
+            "prev_price": 5.99,
+            "price": 4.99
+        },
+        {
+            "link": "https://www.amazon.com/GeeekPi-Raspberry-Expansion-Programming-Programmable/dp/B07Q2P9D7K/ref=sr_1_85?keywords=Raspberry+Pi&qid=1583364166&sr=8-85",
+            "name": "GeeekPi Raspberry Pi Expansion Board 4 Channel Relay Board Module Power Relay Module for Raspberry Pi 4B & Raspberry Pi 3 Model B+ & Raspberry Pi 3/2 Model B (No Programming Required/Programmable)",
+            "prev_price": 15.99,
+            "price": 15.99
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Pi-Desktop-Starter-Black/dp/B0757ZYW4T/ref=sr_1_86?keywords=Raspberry+Pi&qid=1583364166&sr=8-86",
+            "name": "Raspberry Pi 3 Desktop Starter Kit (Black)",
+            "prev_price": 79.99,
+            "price": 79.99
+        },
+        {
+            "link": "https://www.amazon.com/kuman-Inch-Touch-Screen-Case/dp/B07KWY1NF9/ref=sr_1_87?keywords=Raspberry+Pi&qid=1583364166&sr=8-87",
+            "name": "kuman 3.5 Inch Touch Screen with Protective Case 320x480 Resolution TFT LCD Display for Raspberry Pi 3B+, 2B, B+",
+            "prev_price": 34.99,
+            "price": 34.99
+        },
+        {
+            "link": "https://www.amazon.com/CanaKit-Raspberry-Ultimate-Starter-Kit/dp/B01C6Q4GLE/ref=sr_1_88?keywords=Raspberry+Pi&qid=1583364166&sr=8-88",
+            "name": "CanaKit Raspberry Pi 3 Ultimate Starter Kit - 32 GB Edition",
+            "prev_price": 89.99,
+            "price": 89.99
+        },
+        {
+            "link": "https://www.amazon.com/Programming-Raspberry-Pi-Second-Getting/dp/1259587401/ref=sr_1_89?keywords=Raspberry+Pi&qid=1583364166&sr=8-89",
+            "name": "Programming the Raspberry Pi, Second Edition: Getting Started with Python",
+            "prev_price": 15.0,
+            "price": 11.29
+        },
+        {
+            "link": "https://www.amazon.com/Eviciv-Portable-Monitor-Display-1024X600/dp/B07L6WT77H/ref=sr_1_90?keywords=Raspberry+Pi&qid=1583364166&sr=8-90",
+            "name": "Touchscreen Monitor, 7 Inch Portable USB Monitor Raspberry Pi Touch Screen IPS Display Computer Monitor 1024X600 16:9 HDMI Game Monitor for Pi 4/3 /2/ Zero/B Raspbian Ubuntu Xbox /PS4 Mac",
+            "prev_price": 79.99,
+            "price": 79.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg6_1?ie=UTF8&adId=A02729802U5065GT5A29A&url=%2FVilros-Raspberry-Complete-Heavy-Duty-Aluminum%2Fdp%2FB07XTRNPF4%2Fref%3Dsr_1_91_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364166%26sr%3D8-91-spons%26psc%3D1&qualifier=1583364166&id=7756132143291096&widgetName=sp_mtf",
+            "name": "Vilros Raspberry Pi 4-2GB RAM- Complete Starter Kit with Heavy-Duty Self Cooling Aluminum Alloy Case",
+            "prev_price": 84.0,
+            "price": 84.0
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg6_2?ie=UTF8&adId=A02725802WY43694DHQEC&url=%2FVilros-Raspberry-RAM-Basic-Heavy-Duty-Self-Cooling%2Fdp%2FB07XTR4114%2Fref%3Dsr_1_92_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364166%26sr%3D8-92-spons%26psc%3D1&qualifier=1583364166&id=7756132143291096&widgetName=sp_mtf",
+            "name": "Vilros Raspberry Pi 4-1GB RAM-Basic Starter Kit with Heavy-Duty Self-Cooling Aluminum Alloy Case",
+            "prev_price": 59.99,
+            "price": 59.99
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Pi-Dummies-Sean-McManus/dp/1119412005/ref=sr_1_93?keywords=Raspberry+Pi&qid=1583364166&sr=8-93",
+            "name": "Raspberry Pi For Dummies, 3rd Edition",
+            "prev_price": 26.99,
+            "price": 19.43
+        },
+        {
+            "link": "https://www.amazon.com/GeeekPi-Raspberry-Low-Profile-Cooling-Heatsink/dp/B07ZV1LLWK/ref=sr_1_94?keywords=Raspberry+Pi&qid=1583364166&sr=8-94",
+            "name": "GeeekPi Raspberry Pi 4 Fan, Raspberry Pi Low-Profile CPU Cooler with RGB Cooling Fan and Raspberry Pi Heatsink for Raspberry Pi 4 Model B & Raspberry Pi 3B+ & Raspberry Pi 3 Model B",
+            "prev_price": 22.9,
+            "price": 22.9
+        },
+        {
+            "link": "https://www.amazon.com/Explore-Swather-Tractor-Blippi-Tractors/dp/B01LX0FMPQ/ref=sr_1_95?keywords=Raspberry+Pi&qid=1583364166&sr=8-95",
+            "name": "Blippi - Educational Videos for Children",
+            "prev_price": 110.99,
+            "price": 110.99
+        },
+        {
+            "link": "https://www.amazon.com/Elecrow-Raspberry-1920X1080p-Resolution-Speakers/dp/B076GZVCP2/ref=sr_1_96?keywords=Raspberry+Pi&qid=1583364166&sr=8-96",
+            "name": "Elecrow 10.1 Inch Raspberry Pi 1920X1080p Resolution HDMI VGA Display Monitor IPS Gaming Screen with Build-in Speakers Compatible with Raspberry Pi 4B/3B+/3B WiiU Xbox 360 Windows 7/8/10",
+            "prev_price": 79.99,
+            "price": 74.99
+        },
+        {
+            "link": "https://www.amazon.com/V-Kits-Raspberry-Complete-Starter-Official/dp/B07BBVMTSL/ref=sr_1_97?keywords=Raspberry+Pi&qid=1583364166&sr=8-97",
+            "name": "V-Kits Raspberry Pi 3 Model B+ (Plus) Complete Starter Kit with Official Black Case [2018 Model]",
+            "prev_price": 129.99,
+            "price": 129.99
+        },
+        {
+            "link": "https://www.amazon.com/RP-Raspberry-Official-Desktop-Kit/dp/B07YVFFQ1G/ref=sr_1_98?keywords=Raspberry+Pi&qid=1583364166&sr=8-98",
+            "name": "RP Raspberry Pi 4 Official Desktop Kit",
+            "prev_price": 62.99,
+            "price": 62.99
+        },
+        {
+            "link": "https://www.amazon.com/V-Kits-Raspberry-Starter-Aluminum-Cooling/dp/B07G1LMFRG/ref=sr_1_99?keywords=Raspberry+Pi&qid=1583364166&sr=8-99",
+            "name": "V-Kits Raspberry Pi 3 Model B+ (Plus) Basic Starter Kit with Aluminum Alloy Pi Cooling Case [2018 Model]",
+            "prev_price": 0.0,
+            "price": 0.0
+        },
+        {
+            "link": "https://www.amazon.com/Rasberry-Beginners-Projects-Workbook-Updated-ebook/dp/B082H42BK6/ref=sr_1_100?keywords=Raspberry+Pi&qid=1583364166&sr=8-100",
+            "name": "2 IN 1 : Rasberry Pi Master Series : Beginners Guide + Projects Workbook ( Rasberry Pi 4 Updated 2020)",
+            "prev_price": 59.99,
+            "price": 59.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg6_1?ie=UTF8&adId=A027825218DJ0F09S53JF&url=%2FVilros-Raspberry-Basic-Black-Cooled%2Fdp%2FB07TKDHX1V%2Fref%3Dsr_1_101_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364166%26sr%3D8-101-spons%26psc%3D1&qualifier=1583364166&id=7756132143291096&widgetName=sp_btf",
+            "name": "Vilros Raspberry Pi 4 Basic Kit with Black Fan Cooled Case (1GB)",
+            "prev_price": 105.0,
+            "price": 105.0
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg7_1?ie=UTF8&adId=A0772372AFBL51722NAA&url=%2FCanaKit-Raspberry-Starter-Clear-Case%2Fdp%2FB07YLY143F%2Fref%3Dsr_1_97_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364170%26sr%3D8-97-spons%26psc%3D1&qualifier=1583364170&id=5507428254728655&widgetName=sp_atf_next",
+            "name": "CanaKit Raspberry Pi 4 4GB Starter Kit with Clear Case (4GB RAM)",
+            "prev_price": 97.99,
+            "price": 97.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg7_2?ie=UTF8&adId=A02719327DY49H1D7YYO&url=%2FVilros-Raspberry-Complete-Starter-Cover%2Fdp%2FB07VC9LWPL%2Fref%3Dsr_1_98_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364170%26sr%3D8-98-spons%26psc%3D1&qualifier=1583364170&id=5507428254728655&widgetName=sp_atf_next",
+            "name": "Vilros Raspberry Pi 4 Complete Starter Kit with Dual Cover Clear Case (4GB)",
+            "prev_price": 96.99,
+            "price": 96.99
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Pi-Explained-Radio-Amateurs-ebook/dp/B084P9P367/ref=sr_1_99?keywords=Raspberry+Pi&qid=1583364170&sr=8-99",
+            "name": "Raspberry Pi Explained: for Radio Amateurs",
+            "prev_price": 19.99,
+            "price": 19.99
+        },
+        {
+            "link": "https://www.amazon.com/Vilros-Raspberry-Complete-Starter-Cover/dp/B07VC9LWPL/ref=sr_1_100?keywords=Raspberry+Pi&qid=1583364170&sr=8-100",
+            "name": "Vilros Raspberry Pi 4 Complete Starter Kit with Dual Cover Clear Case (4GB)",
+            "prev_price": 96.99,
+            "price": 96.99
+        },
+        {
+            "link": "https://www.amazon.com/Vilros-Raspberry-USB-C-Adapters-Quickstart/dp/B07TWJ71GD/ref=sr_1_101?keywords=Raspberry+Pi&qid=1583364170&sr=8-101",
+            "name": "Vilros Raspberry Pi 4 with USB-C & Micro HDMI Adapters Quickstart Guide E-Book (1GB)",
+            "prev_price": 44.99,
+            "price": 44.99
+        },
+        {
+            "link": "https://www.amazon.com/Longruner-Capacitive-Display-800x480-Raspberry/dp/B071X8H5FB/ref=sr_1_102?keywords=Raspberry+Pi&qid=1583364170&sr=8-102",
+            "name": "Longruner 7 Inch Capacitive Touch Screen TFT LCD Display HDMI Module 1024 x 600 for Raspberry Pi 3 2 Model B and RPI 1 B+ A BB Black PC Various Systems",
+            "prev_price": 53.99,
+            "price": 53.99
+        },
+        {
+            "link": "https://www.amazon.com/Aokin-Raspberry-Camera-Module-Compatible/dp/B07JPLV5K1/ref=sr_1_103?keywords=Raspberry+Pi&qid=1583364170&sr=8-103",
+            "name": "Raspberry Pi Camera Module 5MP 1080p OV5647 Sensor Video Webcam Compatible with 6inch 15Pin Ribbon Cable for Raspberry Pi Model A/B/B+,Pi 2 and Raspberry Pi 2.3,3B+ and Pi 4",
+            "prev_price": 8.99,
+            "price": 8.99
+        },
+        {
+            "link": "https://www.amazon.com/Vilros-Raspberry-RAM-Basic-Heavy-Duty-Self-Cooling/dp/B07XTN5YRN/ref=sr_1_104?keywords=Raspberry+Pi&qid=1583364170&sr=8-104",
+            "name": "Vilros Raspberry Pi 4-4GB RAM-Basic Starter Kit with Heavy-Duty Self-Cooling Aluminum Alloy Case",
+            "prev_price": 83.99,
+            "price": 83.99
+        },
+        {
+            "link": "https://www.amazon.com/EleDuino-Raspberry-Aluminum-Intelligent-Temperature/dp/B07VPQP15T/ref=sr_1_105?keywords=Raspberry+Pi&qid=1583364170&sr=8-105",
+            "name": "EleDuino Raspberry PI 4 Aluminum Case with Dual Intelligent Temperature Control Fan (Black)",
+            "prev_price": 24.9,
+            "price": 24.9
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Pi-Cookbook-Software-Solutions-ebook/dp/B07Z78XCTH/ref=sr_1_106?keywords=Raspberry+Pi&qid=1583364170&sr=8-106",
+            "name": "Raspberry Pi Cookbook: Software and Hardware Problems and Solutions",
+            "prev_price": 42.99,
+            "price": 25.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg7_1?ie=UTF8&adId=A01834211Z8WK4N3VH21A&url=%2FToToT-Raspberry-Camera-Module-Adjustable%2Fdp%2FB07WRNT6SM%2Fref%3Dsr_1_107_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364170%26sr%3D8-107-spons%26psc%3D1&qualifier=1583364170&id=5507428254728655&widgetName=sp_mtf",
+            "name": "ToToT Raspberry PI Camera Module Mount Adjustable Pi Camera Mount in Black with 4 Nuts and Screws",
+            "prev_price": 5.99,
+            "price": 5.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg7_2?ie=UTF8&adId=A02731362OPR7S71HGTN8&url=%2FVilros-Raspberry-Complete-Fan-Cooled-Heavy-Duty%2Fdp%2FB07XLNZNSM%2Fref%3Dsr_1_108_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364170%26sr%3D8-108-spons%26psc%3D1&qualifier=1583364170&id=5507428254728655&widgetName=sp_mtf",
+            "name": "Vilros Raspberry Pi 4 Complete Starter Kit with Fan-Cooled Heavy-Duty Aluminum Alloy Case (2GB, Black)",
+            "prev_price": 85.0,
+            "price": 85.0
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Touchscreen-Monitor-1024x600-Speakers/dp/B07S51QDTG/ref=sr_1_109?keywords=Raspberry+Pi&qid=1583364170&sr=8-109",
+            "name": "Raspberry Pi Touchscreen Monitor, 7'' HDMI Touch Screen Display IPS 1024x600 with Prop Stand Built-in Dual Speakers HDMI 2.0 Plug and Play FPC for Raspberry Pi 4 3 2 Zero B+ Model B Xbox PS4 iOS Win",
+            "prev_price": 74.99,
+            "price": 74.99
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Pi-Premium-Starter-Kit/dp/B0811L9QV9/ref=sr_1_110?keywords=Raspberry+Pi&qid=1583364170&sr=8-110",
+            "name": "Raspberry Pi 3 B+ Premium Starter Kit",
+            "prev_price": 66.99,
+            "price": 66.99
+        },
+        {
+            "link": "https://www.amazon.com/Vilros-Raspberry-Arcade-Classic-Gamepads/dp/B01J4HTOS8/ref=sr_1_111?keywords=Raspberry+Pi&qid=1583364170&sr=8-111",
+            "name": "Vilros Raspberry Pi 3 Retro Arcade Gaming Kit with 2 Classic USB Gamepads",
+            "prev_price": 79.99,
+            "price": 79.99
+        },
+        {
+            "link": "https://www.amazon.com/CLOUDLET-CASE-Raspberry-Single-Computers/dp/B07D5NM9ZG/ref=sr_1_112?keywords=Raspberry+Pi&qid=1583364170&sr=8-112",
+            "name": "Cloudlet CASE: for Raspberry Pi and Other Single Board Computers (Clear)",
+            "prev_price": 59.99,
+            "price": 59.99
+        },
+        {
+            "link": "https://www.amazon.com/ABOX-Raspberry-Complete-Motherboard-Heatsink/dp/B07D8VXWRY/ref=sr_1_113?keywords=Raspberry+Pi&qid=1583364170&sr=8-113",
+            "name": "ABOX Raspberry Pi 3 B+ Complete Starter Kit with Model B Plus Motherboard 32GB Micro SD Card NOOBS, 5V 3A On/Off Power Supply, Premium Black Case, HDMI Cable, SD Card Reader with USB A&USB C, Heatsink",
+            "prev_price": 79.97,
+            "price": 79.97
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Computing-Monitoring-Prometheus-understand-ebook/dp/B0852Q337B/ref=sr_1_114?keywords=Raspberry+Pi&qid=1583364170&sr=8-114",
+            "name": "Raspberry Pi Computing: Monitoring with Prometheus and Grafana: Measure, record, visualize and understand your systems",
+            "prev_price": 1.99,
+            "price": 1.99
+        },
+        {
+            "link": "https://www.amazon.com/GeeekPi-Acrylic-Raspberry-Cooling-Heatsinks/dp/B07TXSQ47L/ref=sr_1_115?keywords=Raspberry+Pi&qid=1583364170&sr=8-115",
+            "name": "GeeekPi Acrylic Case for Raspberry Pi 4 Model B, Raspberry Pi Case with Cooling Fan Raspberry Pi Heatsinks for Raspberry Pi 4 Model B(Only for Pi 4) (Black and Clear)",
+            "prev_price": 9.99,
+            "price": 9.99
+        },
+        {
+            "link": "https://www.amazon.com/Freenove-Raspberry-Processing-Tutorials-Components/dp/B06VTH7L28/ref=sr_1_116?keywords=Raspberry+Pi&qid=1583364170&sr=8-116",
+            "name": "Freenove RFID Starter Kit for Raspberry Pi 4 B 3 B+, 423 Pages Detailed Tutorials, Python C Java, 204 Items, 53 Projects, Learn Electronics and Programming, Solderless Breadboard",
+            "prev_price": 39.95,
+            "price": 39.95
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg7_1?ie=UTF8&adId=A09408483TYTFUPM83DFM&url=%2FPiZ-UpTime-2-0-UPS-Raspberry-Pi-Zero%2Fdp%2FB07VDB6ZCD%2Fref%3Dsr_1_117_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364170%26sr%3D8-117-spons%26psc%3D1&qualifier=1583364170&id=5507428254728655&widgetName=sp_btf",
+            "name": "PiZ-UpTime 2.0 UPS for Raspberry Pi, Pi-Zero, SBC & IoT",
+            "prev_price": 45.0,
+            "price": 35.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg7_2?ie=UTF8&adId=A027184430BJ4WA5QQFNW&url=%2FVilros-Raspberry-Complete-Starter-Official%2Fdp%2FB07V9P2ZSB%2Fref%3Dsr_1_118_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364170%26sr%3D8-118-spons%26psc%3D1&qualifier=1583364170&id=5507428254728655&widgetName=sp_btf",
+            "name": "Vilros Raspberry Pi 4 Complete Starter Kit with Official Case (Red/White) (2GB)",
+            "prev_price": 79.99,
+            "price": 79.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg8_1?ie=UTF8&adId=A07476632KJBSTI6ARXYI&url=%2FXiaoR-Geek-Starter-Platform-Raspberry%2Fdp%2FB082NL3RLG%2Fref%3Dsr_1_113_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364174%26sr%3D8-113-spons%26psc%3D1&qualifier=1583364174&id=6704137654643841&widgetName=sp_atf_next",
+            "name": "XiaoR Geek Donkey Car Starter Kit Open Source DIY Self Driving Platform for Small Scale Cars Raspberry Pi Robot Car",
+            "prev_price": 209.0,
+            "price": 209.0
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg8_2?ie=UTF8&adId=A06854541969HQM0MX2UC&url=%2FLABISTS-Raspberry-Sensitive-Official-8-megapixel%2Fdp%2FB07W5T3J5T%2Fref%3Dsr_1_114_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364174%26sr%3D8-114-spons%26psc%3D1&qualifier=1583364174&id=6704137654643841&widgetName=sp_atf_next",
+            "name": "LABISTS Raspberry Pi No-IR Camera Module V2 IR Sensitive Webcam RPI Camera Module Official IMX219 8-megapixel Sensor",
+            "prev_price": 27.59,
+            "price": 27.59
+        },
+        {
+            "link": "https://www.amazon.com/KOOKYE-Modules-Arduino-Raspberry-Professional/dp/B01J9GD3DG/ref=sr_1_115?keywords=Raspberry+Pi&qid=1583364174&sr=8-115",
+            "name": "KOOKYE 16 in 1 Smart Home Sensor Modules Kit for Arduino Raspberry Pi DIY Professional",
+            "prev_price": 21.97,
+            "price": 21.97
+        },
+        {
+            "link": "https://www.amazon.com/Arducam-Camera-Raspberry-Interchangeable-LS-2717CS/dp/B012ETE75I/ref=sr_1_116?keywords=Raspberry+Pi&qid=1583364174&sr=8-116",
+            "name": "Arducam for Raspberry Pi Camera, Interchangeable CS Mount Lens for Pi 4, 3, 3B+, 5MP OV5647 1080P",
+            "prev_price": 32.99,
+            "price": 29.99
+        },
+        {
+            "link": "https://www.amazon.com/Longruner-Raspberry-Display-1024x600-Protective/dp/B07S74MP36/ref=sr_1_117?keywords=Raspberry+Pi&qid=1583364174&sr=8-117",
+            "name": "Longruner Raspberry Pi Touch Screen with Case Holder, 7 Inch TFT LCD Display HDMI Module 1024x600 for Raspberry Pi 3 2 Model B and RPI 1 B+ A BB Black PC Various Systems \uff08with Protective Case\uff09",
+            "prev_price": 62.99,
+            "price": 62.99
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Plus-Ultimate-Kit-Motherboard/dp/B07BGFH2K5/ref=sr_1_118?keywords=Raspberry+Pi&qid=1583364174&sr=8-118",
+            "name": "Raspberry Pi 3 B+ (B Plus) Ultimate Kit \u2013 Complete Set Includes Raspberry pi Motherboard, 7\u201d Touchscreen Display, Power Supply, 32GB SD Card, 2 Heatsinks, Official Case & 6ft HDMI Cable & Keyboard",
+            "prev_price": 159.99,
+            "price": 159.99
+        },
+        {
+            "link": "https://www.amazon.com/Programming-Raspberry-Pi-Second-Getting/dp/1259587401/ref=sr_1_119?keywords=Raspberry+Pi&qid=1583364174&sr=8-119",
+            "name": "Programming the Raspberry Pi, Second Edition: Getting Started with Python",
+            "prev_price": 15.0,
+            "price": 11.29
+        },
+        {
+            "link": "https://www.amazon.com/MakerFocus-Raspberry-Heatsink-Expansion-Compatible/dp/B07WMTNXZ1/ref=sr_1_120?keywords=Raspberry+Pi&qid=1583364174&sr=8-120",
+            "name": "MakerFocus Raspberry Pi 4B Cooling Fan, Raspberry Pi 4B Heatsink, Raspberry Pi 4B GPIO Expansion Board DC5V 0.2A with LED Compatible with Raspberry Pi 4B/3B+/3B",
+            "prev_price": 99.0,
+            "price": 12.99
+        },
+        {
+            "link": "https://www.amazon.com/Official-Raspberry-Pi-Beginners-Guide/dp/1912047586/ref=sr_1_121?keywords=Raspberry+Pi&qid=1583364174&sr=8-121",
+            "name": "The Official Raspberry Pi Beginner's Guide: How to use your new computer",
+            "prev_price": 16.26,
+            "price": 16.26
+        },
+        {
+            "link": "https://www.amazon.com/ETEPON-Raspberry-Screen-Monitor-Display/dp/B07HMP7ZB5/ref=sr_1_122?keywords=Raspberry+Pi&qid=1583364174&sr=8-122",
+            "name": "ETEPON 10.1 Inch HDMI Monitor 1024 X 600 HD LCD Screen with Ultra-Slim Shell for Raspberry Pi 3 2 Model B+ 3B 2B B+ A+ (10.1 Inch Raspberry Pi Screen)",
+            "prev_price": 56.99,
+            "price": 56.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg8_1?ie=UTF8&adId=A0406587PFNMO635NKNV&url=%2FGlobmall-ABOX-Mini-Keyboard-Raspberry%2Fdp%2FB07X3R5VHV%2Fref%3Dsr_1_123_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364174%26sr%3D8-123-spons%26psc%3D1&qualifier=1583364174&id=6704137654643841&widgetName=sp_mtf",
+            "name": "Globmall ABOX Mini Keyboard for Raspberry Pi, Tablet, Smartphone, TV Box, Gaming Consoles",
+            "prev_price": 15.99,
+            "price": 15.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg8_2?ie=UTF8&adId=A00932542Z9QWMBP16LDX&url=%2FFreenove-Raspberry-Processing-Tutorials-Components%2Fdp%2FB06W54L7B5%2Fref%3Dsr_1_124_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364174%26sr%3D8-124-spons%26psc%3D1&qualifier=1583364174&id=6704137654643841&widgetName=sp_mtf",
+            "name": "Freenove Ultimate Starter Kit for Raspberry Pi 4 B 3 B+, 434 Pages Detailed Tutorials, Python C Java, 223 Items, 57 Projects, Learn Electronics and Programming, Solderless Breadboard",
+            "prev_price": 49.95,
+            "price": 49.95
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Pi-Model-Motherboard-Element/dp/B07CTF2GWR/ref=sr_1_125?keywords=Raspberry+Pi&qid=1583364174&sr=8-125",
+            "name": "Raspberry Pi 3 Model B Motherboard (Element 14)",
+            "prev_price": 41.98,
+            "price": 41.98
+        },
+        {
+            "link": "https://www.amazon.com/Yahboom-Raspberry-Programmable-Electronics-%EF%BC%88Raspberry/dp/B07GJB7SWZ/ref=sr_1_126?keywords=Raspberry+Pi&qid=1583364174&sr=8-126",
+            "name": "Yahboom Raspberry Pi Robot Kit for 4B / 3B+ Project with HD Camera, Programmable Robotice Truck with 4WD, Electronics Education DIY Set for Adult (Raspberry Pi Not Included)",
+            "prev_price": 130.0,
+            "price": 118.99
+        },
+        {
+            "link": "https://www.amazon.com/Freenove-Raspberry-Tracking-Avoidance-Ultrasonic/dp/B07YD2LT9D/ref=sr_1_127?keywords=Raspberry+Pi&qid=1583364174&sr=8-127",
+            "name": "Freenove 4WD Smart Car Kit for Raspberry Pi 4 B 3 B+, Face Tracking, Line Tracking, Light Tracing, Obstacle Avoidance, Colorful Light, Camera Ultrasonic Servo Wireless RC",
+            "prev_price": 69.95,
+            "price": 69.95
+        },
+        {
+            "link": "https://www.amazon.com/Rasberry-Beginners-Projects-Workbook-Updated-ebook/dp/B082H42BK6/ref=sr_1_128?keywords=Raspberry+Pi&qid=1583364174&sr=8-128",
+            "name": "2 IN 1 : Rasberry Pi Master Series : Beginners Guide + Projects Workbook ( Rasberry Pi 4 Updated 2020)",
+            "prev_price": 0.0,
+            "price": 0.0
+        },
+        {
+            "link": "https://www.amazon.com/Geekworm-Raspberry-Ultra-Thin-Aluminum-Compatible/dp/B07X5Y81C6/ref=sr_1_129?keywords=Raspberry+Pi&qid=1583364174&sr=8-129",
+            "name": "Geekworm Raspberry Pi 4 Case, Raspberry Pi 4 Model B CNC Ultra-Thin Aluminum Alloy Metal Passive Cooling Case, Raspberry Pi 4 Heatsink Case Compatible with Raspberry Pi 4B, Pi 4B, Pi 4 Only (N300)",
+            "prev_price": 28.89,
+            "price": 28.89
+        },
+        {
+            "link": "https://www.amazon.com/MakerFocus-Raspberry-Aluminum-Heatsink-Driver/dp/B07PNB7JWP/ref=sr_1_130?keywords=Raspberry+Pi&qid=1583364174&sr=8-130",
+            "name": "MakerFocus Raspberry Pi Case with Fan, Raspberry Pi 3 B+ Aluminum Alloy Case with Heatsink and Screw Driver for RPi 3B+, RPi 3/2, RPi B",
+            "prev_price": 14.99,
+            "price": 14.99
+        },
+        {
+            "link": "https://www.amazon.com/LABISTS-Raspberry-Complete-Preloaded-Heatsinks/dp/B07W6MYB2V/ref=sr_1_131?keywords=Raspberry+Pi&qid=1583364174&sr=8-131",
+            "name": "LABISTS Raspberry Pi 4 Complete Starter Kit with Pi 4 Model B 2GB RAM Board, 32GB Micro SD Card Preloaded Noobs, 5V 3A Power Supply, Case, HDMI Cable, SD Card Reader (USB A&USB C), Fan, Heatsinks",
+            "prev_price": 89.97,
+            "price": 89.97
+        },
+        {
+            "link": "https://www.amazon.com/LoveRPi-Camera-Module-Raspberry-Normal/dp/B07KF7GWJL/ref=sr_1_132?keywords=Raspberry+Pi&qid=1583364174&sr=8-132",
+            "name": "LoveRPi 5MP Camera Module for Raspberry Pi 4/3/2/Zero W",
+            "prev_price": 9.99,
+            "price": 9.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg8_1?ie=UTF8&adId=A02712521POI6825GOO33&url=%2FVilros-Raspberry-Complete-Starter-Cover%2Fdp%2FB07VF8TLNF%2Fref%3Dsr_1_133_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364174%26sr%3D8-133-spons%26psc%3D1&qualifier=1583364174&id=6704137654643841&widgetName=sp_btf",
+            "name": "Vilros Raspberry Pi 4 Complete Starter Kit with Dual Cover Clear Case (1GB)",
+            "prev_price": 74.99,
+            "price": 74.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg8_2?ie=UTF8&adId=A078018214HULOSHMOSJA&url=%2FRaspberry-Screen-Monitor-Touchscreen-Display%2Fdp%2FB081VT2CPW%2Fref%3Dsr_1_134_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364174%26sr%3D8-134-spons%26psc%3D1&qualifier=1583364174&id=6704137654643841&widgetName=sp_btf",
+            "name": "NeeGo Raspberry Pi 4 Screen Case for Raspberry Pi Monitor Touchscreen Display 7-inch",
+            "prev_price": 29.99,
+            "price": 24.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg9_1?ie=UTF8&adId=A038020623DX3L80KXH8F&url=%2F2-2-inch-Display-Module-Arduino%2Fdp%2FB07JCV9GF5%2Fref%3Dsr_1_129_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364177%26sr%3D8-129-spons%26psc%3D1&qualifier=1583364177&id=8011648254961139&widgetName=sp_atf_next",
+            "name": "2.2 inch TFT LCD Display Module for Arduino",
+            "prev_price": 15.9,
+            "price": 15.9
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg9_2?ie=UTF8&adId=A02716881B84MHD8JXQUO&url=%2FVilros-Raspberry-Complete-Starter-Cover%2Fdp%2FB07VB55W7C%2Fref%3Dsr_1_130_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364177%26sr%3D8-130-spons%26psc%3D1&qualifier=1583364177&id=8011648254961139&widgetName=sp_atf_next",
+            "name": "Vilros Raspberry Pi 4 Complete Starter Kit with Dual Cover Clear Case (2GB)",
+            "prev_price": 86.99,
+            "price": 76.99
+        },
+        {
+            "link": "https://www.amazon.com/RASPBERRY-PI-RASPBERRYPI-SENSEHAT-Raspberry-Orientation-Temperature/dp/B014HDG74S/ref=sr_1_131?keywords=Raspberry+Pi&qid=1583364177&sr=8-131",
+            "name": "Raspberry Pi RASPBERRYPI-SENSEHAT Sense HAT with Orientation, Pressure, Humidity and Temperature Sensors",
+            "prev_price": 37.21,
+            "price": 37.21
+        },
+        {
+            "link": "https://www.amazon.com/Python-Programming-Raspberry-Teach-Yourself/dp/0672337649/ref=sr_1_132?keywords=Raspberry+Pi&qid=1583364177&sr=8-132",
+            "name": "Python Programming for Raspberry Pi, Sams Teach Yourself in 24 Hours (2nd Edition) (Sams Teach Yourself -- Hours)",
+            "prev_price": 34.99,
+            "price": 21.99
+        },
+        {
+            "link": "https://www.amazon.com/Freenove-Ultrasonic-Raspberry-Processing-Tutorials/dp/B06X1BPH8D/ref=sr_1_133?keywords=Raspberry+Pi&qid=1583364177&sr=8-133",
+            "name": "Freenove Ultrasonic Starter Kit for Raspberry Pi 4 B 3 B+, 358 Pages Detailed Tutorials, Python C Java, 171 Items, 47 Projects, Learn Electronics and Programming, Solderless Breadboard",
+            "prev_price": 29.95,
+            "price": 29.95
+        },
+        {
+            "link": "https://www.amazon.com/Artik-Raspberry-Extension-Aluminum-Accessible/dp/B08279783Y/ref=sr_1_134?keywords=Raspberry+Pi&qid=1583364177&sr=8-134",
+            "name": "Artik Raspberry Pi 4 Case with GPIO Extension Header | Includes 2 5V Mini Fans | Red | Cooling Aluminum Heatsink Armor Case | PoE, Camera, and Display Module are Fully Accessible",
+            "prev_price": 18.75,
+            "price": 18.75
+        },
+        {
+            "link": "https://www.amazon.com/Vilros-Raspberry-Basic-Black-Cooled/dp/B07TMGBPFQ/ref=sr_1_135?keywords=Raspberry+Pi&qid=1583364177&sr=8-135",
+            "name": "Vilros Raspberry Pi 4 Basic Kit with Black Fan Cooled Case (2GB)",
+            "prev_price": 62.99,
+            "price": 62.99
+        },
+        {
+            "link": "https://www.amazon.com/SunFounder-Raspberry-Modules-Sensor-Included/dp/B07896TMD9/ref=sr_1_136?keywords=Raspberry+Pi&qid=1583364177&sr=8-136",
+            "name": "SunFounder Raspberry Pi 3 Model B+ 37 Modules Sensor Kit V2.0 for Rpi 4B, 3 B+, 2B, A+, Zero, Raspberry Pi Board Included",
+            "prev_price": 129.99,
+            "price": 129.99
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Projects-Evil-Genius-Comprehensive/dp/B082CVBH3N/ref=sr_1_137?keywords=Raspberry+Pi&qid=1583364177&sr=8-137",
+            "name": "Raspberry Pi 4 Projects for the Evil Genius: A Comprehensive Guide to Setup & Developing Raspberry Pi 4 Projects",
+            "prev_price": 14.95,
+            "price": 0.0
+        },
+        {
+            "link": "https://www.amazon.com/CanaKit-Raspberry-Starter-32GB-Official/dp/B07VDGKN51/ref=sr_1_138?keywords=Raspberry+Pi&qid=1583364177&sr=8-138",
+            "name": "CanaKit Raspberry Pi 4 Starter Kit (32GB EVO+ Edition, Official Case) - 4GB RAM",
+            "prev_price": 79.99,
+            "price": 79.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg9_1?ie=UTF8&adId=A0271532UY8PPSS0I5MJ&url=%2FVilros-Raspberry-Complete-Transparent-Cooled%2Fdp%2FB07VD9JR2H%2Fref%3Dsr_1_139_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364177%26sr%3D8-139-spons%26psc%3D1&qualifier=1583364177&id=8011648254961139&widgetName=sp_mtf",
+            "name": "Vilros Raspberry Pi 4 Complete Kit with Clear Transparent Fan Cooled Case (2GB)",
+            "prev_price": 69.99,
+            "price": 69.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg9_2?ie=UTF8&adId=A08137921U2M4AGXEL67G&url=%2FHSU-Development-Electronic-Components-Accessories%2Fdp%2FB073WVFGMK%2Fref%3Dsr_1_140_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364177%26sr%3D8-140-spons%26psc%3D1&qualifier=1583364177&id=8011648254961139&widgetName=sp_mtf",
+            "name": "HSU Development Kit for Raspberry Pi 3 Pi 4 and Arduino with 16 Different Sensor Modules,Hundreds Electronic Components,Other Necessary Accessories and Big Carrying Case (Advanced)",
+            "prev_price": 25.99,
+            "price": 25.99
+        },
+        {
+            "link": "https://www.amazon.com/UCTRONICS-Screen-Raspberry-Display-Stylus/dp/B0828JCLPV/ref=sr_1_141?keywords=Raspberry+Pi&qid=1583364177&sr=8-141",
+            "name": "UCTRONICS 3.5 Inch Touch Screen for Raspberry Pi 4, HDMI TFT LCD Mini Display with Stylus Pen for Pi 4 B, 3 B+",
+            "prev_price": 9.99,
+            "price": 9.99
+        },
+        {
+            "link": "https://www.amazon.com/Arducam-Raspberry-Camera-Ribbon-Extension/dp/B07SM6JTTM/ref=sr_1_142?keywords=Raspberry+Pi&qid=1583364177&sr=8-142",
+            "name": "Arducam for Raspberry Pi Camera Ribbon Flex Extension Cable Set (7Pcs), 5.9\u201d 7.87\u201d 11.8\u201d 19.69\u201d 39.37\u201d for Raspberry Pi, 2.87\u201d 5.91\u201d for Pi Zero",
+            "prev_price": 28.99,
+            "price": 28.99
+        },
+        {
+            "link": "https://www.amazon.com/GeeekPi-Raspberry-Cooler-Cooling-Heatsink/dp/B07ZCX5KG6/ref=sr_1_143?keywords=Raspberry+Pi&qid=1583364177&sr=8-143",
+            "name": "GeeekPi Raspberry Pi 4 Case with ICE Tower Cooler CPU Cooling Fan,Raspberry Pi 4 Case with Fan Raspberry Pi Heatsink Raspberry Pi Fan Raspberry Pi Case for Raspberry Pi 4 Model B",
+            "prev_price": 0.0,
+            "price": 0.0
+        },
+        {
+            "link": "https://www.amazon.com/RASPBERRY-BEGINNERS-GUIDE-Comprehensive-Innovative-ebook/dp/B081DC1YQW/ref=sr_1_144?keywords=Raspberry+Pi&qid=1583364177&sr=8-144",
+            "name": "RASPBERRY Pi 4 BEGINNER'S GUIDE: A Comprehensive Guide for Beginner's to Master the New Raspberry and Set Up Innovative Projects",
+            "prev_price": 25.99,
+            "price": 25.99
+        },
+        {
+            "link": "https://www.amazon.com/PoE-Texas-Raspberry-Accessories-GAF-PiHAT-FBA/dp/B07TVFFHVP/ref=sr_1_145?keywords=Raspberry+Pi&qid=1583364177&sr=8-145",
+            "name": "PoE Texas Raspberry 3 B+ and 4 Pi Hat Accessories (GAF-PiHAT-FBA)",
+            "prev_price": 8.99,
+            "price": 8.99
+        },
+        {
+            "link": "https://www.amazon.com/MazerPi-Raspberry-Cooling-Heatsink-Model/dp/B07W3ZMVP1/ref=sr_1_146?keywords=Raspberry+Pi&qid=1583364177&sr=8-146",
+            "name": "MazerPi Raspberry Pi 4 Case, Raspberry Pi Case with Cooling Fan, Raspberry Pi 4 Heatsink for Raspberry Pi 4 Model B, Pi 4B, Pi 4",
+            "prev_price": 0.0,
+            "price": 0.0
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Ultimate-Guide-Everything-Programming-ebook/dp/B08288RXBY/ref=sr_1_147?keywords=Raspberry+Pi&qid=1583364177&sr=8-147",
+            "name": "Raspberry Pi 4 Ultimate Guide: From Beginner to Pro: Everything You Need to Know: Setup, Programming Theory, Techniques, and Awesome Ideas to Build Your Own Projects (Raspberry Master Series Book 1)",
+            "prev_price": 10.99,
+            "price": 10.99
+        },
+        {
+            "link": "https://www.amazon.com/Dorhea-Raspberry-Cluster-Compatible-2-Layers/dp/B07VZT89BK/ref=sr_1_148?keywords=Raspberry+Pi&qid=1583364177&sr=8-148",
+            "name": "Dorhea Raspberry Pi 4 B Case, Raspberry Pi Rack Cluster Case with Cooling Fan for Raspberry Pi 3 Model B+, Compatible with Raspberry Pi 3 Model B, Raspberry Pi 2 Model B,Pi B+ (2-Layers)",
+            "prev_price": 82.99,
+            "price": 82.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg9_1?ie=UTF8&adId=A08175403M9KY7NC5OBI2&url=%2FCanaKit-Raspberry-4GB-Basic-Starter%2Fdp%2FB07VYC6S56%2Fref%3Dsr_1_149_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364177%26sr%3D8-149-spons%26psc%3D1%26smid%3DA30ZYR2W3VAJ0A&qualifier=1583364177&id=8011648254961139&widgetName=sp_btf",
+            "name": "CanaKit Raspberry Pi 4 4GB Basic Starter Kit with Fan (4GB RAM)",
+            "prev_price": 15.95,
+            "price": 15.95
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg10_1?ie=UTF8&adId=A027457613FZ0D2P92EZQ&url=%2Fdp%2FB085GBCLYR%2Fref%3Dsr_1_145_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364181%26sr%3D8-145-spons%26psc%3D1&qualifier=1583364181&id=2388483289302632&widgetName=sp_atf_next",
+            "name": "LABISTS Raspberry Pi 4 Case with Camera Hole, Fan Space, 3 Heatsinks Space, Access to All Output Port, 5.1V 3A USB-C Power Supply for Raspberry Pi 4 Model B",
+            "prev_price": 23.99,
+            "price": 19.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_aps_sr_pg10_2?ie=UTF8&adId=A020118618EEKQB6KJPS9&url=%2FElectronics-Salon-20-pin-Supply-Breakout-Module%2Fdp%2FB01NBU2C64%2Fref%3Dsr_1_146_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364181%26sr%3D8-146-spons%26psc%3D1&qualifier=1583364181&id=2388483289302632&widgetName=sp_atf_next",
+            "name": "Electronics-Salon 24/20-pin ATX DC Power Supply Breakout Board Module.",
+            "prev_price": 12.99,
+            "price": 12.99
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Screen-10-1-IPS-SunFounder/dp/B07FZZ95WN/ref=sr_1_147?keywords=Raspberry+Pi&qid=1583364181&sr=8-147",
+            "name": "Raspberry Pi 4 Screen 10.1\u2019\u2019 IPS - SunFounder 10.1 Inch HDMI IPS LCD Monitor Display High Resolution 1280\u00d7800 with Camera Holder Stand for Raspberry Pi 4 Model B",
+            "prev_price": 110.99,
+            "price": 110.99
+        },
+        {
+            "link": "https://www.amazon.com/GeeekPi-Raspberry-Passive-Aluminum-Cooling/dp/B083XV78RD/ref=sr_1_148?keywords=Raspberry+Pi&qid=1583364181&sr=8-148",
+            "name": "GeeekPi Raspberry Pi 4 Armor Case with Fan, Raspberry Pi 4 Passive Aluminum Alloy Case with Cooling Fan for Raspberry Pi 4 Model B/Pi 4B/Pi 4 (3510 Fan)",
+            "prev_price": 18.99,
+            "price": 18.99
+        },
+        {
+            "link": "https://www.amazon.com/RASPBERRY-BEGINNERS-GUIDE-Comprehensive-Innovative-ebook/dp/B081DC1YQW/ref=sr_1_149?keywords=Raspberry+Pi&qid=1583364181&sr=8-149",
+            "name": "RASPBERRY Pi 4 BEGINNER'S GUIDE: A Comprehensive Guide for Beginner's to Master the New Raspberry and Set Up Innovative Projects",
+            "prev_price": 0.0,
+            "price": 0.0
+        },
+        {
+            "link": "https://www.amazon.com/GeeekPi-Raspberry-Tower-Cooling-Heatsink/dp/B081HBS1SH/ref=sr_1_150?keywords=Raspberry+Pi&qid=1583364181&sr=8-150",
+            "name": "GeeekPi Raspberry Pi 4 Case with Raspberry Pi ICE Tower Fan RBG Cooling Fan, Raspberry Pi 4 Case with Fan Raspberry Pi Heatsink Raspberry Pi Fan Raspberry Pi Case for Raspberry Pi 4 Model B",
+            "prev_price": 28.99,
+            "price": 28.99
+        },
+        {
+            "link": "https://www.amazon.com/Retropie-Preloaded-Raspberry-Collection-Previews/dp/B07VVF6R6C/ref=sr_1_151?keywords=Raspberry+Pi&qid=1583364181&sr=8-151",
+            "name": "Retropie Preloaded 128GB Games Plus Data with Micro SD TF Card for Raspberry Pi 2B, 3B, 3B+ Loaded Collection with Video Previews & 3D Boxart",
+            "prev_price": 59.99,
+            "price": 59.99
+        },
+        {
+            "link": "https://www.amazon.com/Miuzei-Raspberry-Heatsinks-Supply-Compatible/dp/B07BTHNW9W/ref=sr_1_152?keywords=Raspberry+Pi&qid=1583364181&sr=8-152",
+            "name": "Miuzei Raspberry Pi 3 B+ Case with Fan Cooling and 3\u00d7 Heat-Sinks, 5V 2.5A Power Supply with On/Off Switch Cable for RPi 3 B+, 3B, 2b",
+            "prev_price": 18.59,
+            "price": 15.99
+        },
+        {
+            "link": "https://www.amazon.com/Smraza-Raspberry-Heatsinks-Supply-Adapter/dp/B07W5VQYG9/ref=sr_1_153?keywords=Raspberry+Pi&qid=1583364181&sr=8-153",
+            "name": "Smraza Case for Raspberry Pi 4 Model B, Case with Fan, 4PCS Heatsinks, 5V 3A USB-C Power Supply, USB Card Reader, 6 Feet Micro HDMI Cable, 7.8 Inch Micro HDMI to HDMI Adapter Cable (4K Ultra HD)",
+            "prev_price": 19.99,
+            "price": 19.99
+        },
+        {
+            "link": "https://www.amazon.com/Vilros-Raspberry-Complete-Starter-Clear/dp/B01CUMNIV8/ref=sr_1_154?keywords=Raspberry+Pi&qid=1583364181&sr=8-154",
+            "name": "Vilros Raspberry Pi 3 Complete Starter Kit with Clear Case and 32GB SD Card",
+            "prev_price": 74.99,
+            "price": 74.99
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg10_1?ie=UTF8&adId=A0250550N5V33NN5I24Y&url=%2FCharmed-Labs-Pixy2-Vision-Sensor%2Fdp%2FB07D1CLYD2%2Fref%3Dsr_1_155_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364181%26sr%3D8-155-spons%26psc%3D1&qualifier=1583364181&id=2388483289302632&widgetName=sp_mtf",
+            "name": "Charmed Labs Pixy2 Smart Vision Sensor - Object Tracking Camera for Arduino, Raspberry Pi, BeagleBone Black",
+            "prev_price": 59.9,
+            "price": 59.9
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg10_2?ie=UTF8&adId=A0093410QW7SFMU0HG7Y&url=%2FFreenove-Raspberry-Processing-Tutorials-Components%2Fdp%2FB06VTH7L28%2Fref%3Dsr_1_156_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364181%26sr%3D8-156-spons%26psc%3D1&qualifier=1583364181&id=2388483289302632&widgetName=sp_mtf",
+            "name": "Freenove RFID Starter Kit for Raspberry Pi 4 B 3 B+, 423 Pages Detailed Tutorials, Python C Java, 204 Items, 53 Projects, Learn Electronics and Programming, Solderless Breadboard",
+            "prev_price": 39.95,
+            "price": 39.95
+        },
+        {
+            "link": "https://www.amazon.com/Geekworm-Raspberry-Computer-Aluminum-Compatible/dp/B07VD568FB/ref=sr_1_157?keywords=Raspberry+Pi&qid=1583364181&sr=8-157",
+            "name": "Geekworm Raspberry Pi 4 Armor Case, Raspberry Pi 4 Computer Model B Armor Aluminum Alloy Passive Cooling Case Compatible with Raspberry Pi 4 Model B Only",
+            "prev_price": 16.89,
+            "price": 16.89
+        },
+        {
+            "link": "https://www.amazon.com/iUniker-Raspberry-Cooling-Heatsink-Removable/dp/B079M96KWZ/ref=sr_1_158?keywords=Raspberry+Pi&qid=1583364181&sr=8-158",
+            "name": "iUniker Raspberry Pi 3 B+ Case, Raspberry Pi Fan ABS Case with Cooling Fan, Raspberry Pi Heatsink, Simple Removable Top Cover for Pi 3 B+, Pi 3 Model B, Pi 2 Model B (Black for 3B+/3B)",
+            "prev_price": 10.99,
+            "price": 10.99
+        },
+        {
+            "link": "https://www.amazon.com/Enokay-Case-Raspberry-Model-Black/dp/B011RBJUOC/ref=sr_1_159?keywords=Raspberry+Pi&qid=1583364181&sr=8-159",
+            "name": "Enokay Case for Raspberry Pi 2 Model B B+ Raspberry Pi 3 Model B B+ Case(Black)",
+            "prev_price": 6.99,
+            "price": 6.99
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Assembly-Language-RASPBIAN-Beginners/dp/1492135283/ref=sr_1_160?keywords=Raspberry+Pi&qid=1583364181&sr=8-160",
+            "name": "Raspberry Pi Assembly Language RASPBIAN Beginners: Hands On Guide",
+            "prev_price": 21.99,
+            "price": 21.99
+        },
+        {
+            "link": "https://www.amazon.com/BeiErMei-Raspberry-Retropie-Preloaded-Nintendo/dp/B081LTHDHQ/ref=sr_1_161?keywords=Raspberry+Pi&qid=1583364181&sr=8-161",
+            "name": "BeiErMei Raspberry Pi 4B Game System, Retropie 4.5.1 Preloaded 64GB Games Plus Data with Class 10 MicroSD TF Card, Only Work with Raspberry Pi 4B, Arcade Nintendo Sega etc",
+            "prev_price": 52.99,
+            "price": 52.99
+        },
+        {
+            "link": "https://www.amazon.com/Police-Car-Song-Blippi-Cars/dp/B01M0Y9TU6/ref=sr_1_162?keywords=Raspberry+Pi&qid=1583364181&sr=8-162",
+            "name": "Blippi - Nursery Rhymes for Children",
+            "prev_price": 3.99,
+            "price": 3.99
+        },
+        {
+            "link": "https://www.amazon.com/Jun-Electron-Acrylic-Raspberry-Cooling-Heatsinks/dp/B07TZ3T21L/ref=sr_1_163?keywords=Raspberry+Pi&qid=1583364181&sr=8-163",
+            "name": "Jun-Electron Acrylic Case for Raspberry Pi 4 Model B with Cooling Fan,3 Heatsinks (Gray)",
+            "prev_price": 62.99,
+            "price": 62.99
+        },
+        {
+            "link": "https://www.amazon.com/Raspberry-Pi-Screen-Capacitive-1024x600/dp/B07QLMBGZC/ref=sr_1_164?keywords=Raspberry+Pi&qid=1583364181&sr=8-164",
+            "name": "for Raspberry Pi Screen, Kuman 7 Inch Capacitive Touch LCD Display HDMI Input 1024x600 with Case Stand",
+            "prev_price": 59.95,
+            "price": 59.95
+        },
+        {
+            "link": "https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg10_1?ie=UTF8&adId=A05377003NJ3S3W4KLSPG&url=%2FSparkFun-Raspberry-Proximity-Environmental-Connection%2Fdp%2FB07WJRRHCL%2Fref%3Dsr_1_165_sspa%3Fkeywords%3DRaspberry%2BPi%26qid%3D1583364181%26sr%3D8-165-spons%26psc%3D1&qualifier=1583364181&id=2388483289302632&widgetName=sp_btf",
+            "name": "SparkFun Qwiic Kit for Raspberry Pi Learn About I2C and Python with Proximity Environmental Sensors OLED Screen HAT QWIIC Cables for Fast Connection No Soldering Required Connect to 40 pin GPIO",
+            "prev_price": 89.99,
+            "price": 89.99
+        }
+    ]
+}
